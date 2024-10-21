@@ -6,9 +6,9 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data
     environment:
-      POSTGRES_DB: keycloak
-      POSTGRES_USER: keycloak
-      POSTGRES_PASSWORD: admin123
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     ports:
       - 5432:5432
     networks:
@@ -19,12 +19,12 @@ services:
     command: start-dev
     environment:
       #KC_LOG_LEVEL: DEBUG
-      KEYCLOAK_ADMIN: admin
-      KEYCLOAK_ADMIN_PASSWORD: admin
+      KEYCLOAK_ADMIN: ${KEYCLOAK_ADMIN}
+      KEYCLOAK_ADMIN_PASSWORD: ${KEYCLOAK_ADMIN_PASSWORD}
       KC_DB: postgres
-      KC_DB_URL: jdbc:postgresql://postgres/keycloak
-      KC_DB_USERNAME: keycloak
-      KC_DB_PASSWORD: admin123
+      KC_DB_URL: jdbc:postgresql://postgres/${POSTGRES_DB}
+      KC_DB_USERNAME: ${POSTGRES_USER}
+      KC_DB_PASSWORD: ${POSTGRES_PASSWORD}
     ports:
       - 8080:8080
     restart: always
@@ -34,18 +34,33 @@ services:
       - keycloak_network
 
   gateway:
-    image: spring-cloud-gateway:latest
+    image: optimove-gateway:0.0.1
     ports:
-      - 8081:8080
+      - ${GATEWAY_PORT}:8080
     depends_on:
       - keycloak
     networks:
       - keycloak_network
+      - services_network
     environment:
-      - OIDC_HOST=192.168.56.116:8080
-      - OIDC_REALM=myrealm
-      - OIDC_CLIENT=secure-app
-      - OIDC_CLIENT_SECRET=ish9gesPro0VkbUYXjuKfc4y801HPIeH
+      - OIDC_HOST=${OIDC_HOST}
+      - OIDC_REALM=${OIDC_REALM}
+      - OIDC_CLIENT=${OIDC_CLIENT}
+      - OIDC_CLIENT_SECRET=${OIDC_CLIENT_SECRET}
+      - DEVICEMANAGEMENT_PORT=${DEVICEMANAGEMENT_PORT}
+      - DEVICEMANAGEMENT_HOST=${DEVICEMANAGEMENT_HOST}
+
+  devicemanagement:
+    image: optimove-devicemanagement:0.0.1
+    ports:
+      - ${DEVICEMANAGEMENT_PORT}:8080
+    depends_on:
+      - gateway
+    networks:
+      - services_network
+    environment:
+      - OIDC_HOST=${OIDC_HOST}
+      - OIDC_REALM=${OIDC_REALM}
 
 volumes:
   postgres_data:
@@ -53,4 +68,7 @@ volumes:
 
 networks:
   keycloak_network:
+    driver: bridge
+
+  services_network:
     driver: bridge
