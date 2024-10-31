@@ -1,0 +1,50 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: devicemanagement
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: devicemanagement
+  template:
+    metadata:
+      labels:
+        app: devicemanagement
+    spec:
+      containers:
+      - name: devicemanagement
+        image: optimove-devicemanagement:0.0.1
+        env:
+        - name: OIDC_HOST
+          valueFrom:
+            configMapKeyRef:
+              name: devicemanagement-config
+              key: OIDC_HOST
+        - name: OIDC_REALM
+          valueFrom:
+            configMapKeyRef:
+              name: devicemanagement-config
+              key: OIDC_REALM
+        - name: DEVICEMANAGEMENT_PORT
+          valueFrom:
+            configMapKeyRef:
+              name: devicemanagement-config
+              key: DEVICEMANAGEMENT_PORT
+        resources:
+          limits:
+            memory: "256Mi"
+        volumeMounts:
+        - name: config-volume
+          mountPath: /app/config/application.yml
+          subPath: application.yml
+        ports:
+        - containerPort: 8080
+      volumes:
+      - name: config-volume
+        configMap:
+          name: devicemanagement-application-config
+      initContainers:
+      - name: wait-for-gateway
+        image: busybox
+        command: ['sh', '-c', 'until nc -z gateway 8080; do echo waiting for gateway; sleep 2; done;']

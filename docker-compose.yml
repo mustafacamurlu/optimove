@@ -12,7 +12,11 @@ services:
     ports:
       - 5432:5432
     networks:
-      - keycloak_network
+      - postgres_network
+    deploy:
+      resources:
+        limits:
+          memory: '256M'
 
   keycloak:
     image: quay.io/keycloak/keycloak:23.0.6
@@ -31,7 +35,21 @@ services:
     depends_on:
       - postgres
     networks:
+      - postgres_network
       - keycloak_network
+    deploy:
+      resources:
+        limits:
+          memory: '512M'
+
+  redis:
+    image: redis:7.2.1
+    networks:
+      - redis_network
+    deploy:
+      resources:
+        limits:
+          memory: '128M'
 
   gateway:
     image: optimove-gateway:0.0.1
@@ -39,21 +57,26 @@ services:
       - ${GATEWAY_PORT}:8080
     depends_on:
       - keycloak
+      - redis
     networks:
       - keycloak_network
       - services_network
+      - redis_network
     environment:
       - OIDC_HOST=${OIDC_HOST}
       - OIDC_REALM=${OIDC_REALM}
       - OIDC_CLIENT=${OIDC_CLIENT}
       - OIDC_CLIENT_SECRET=${OIDC_CLIENT_SECRET}
       - DEVICEMANAGEMENT_PORT=${DEVICEMANAGEMENT_PORT}
-      - DEVICEMANAGEMENT_HOST=${DEVICEMANAGEMENT_HOST}
+      - SPRING_REDIS_HOST=redis
+      - SPRING_REDIS_PORT=6379
+    deploy:
+      resources:
+        limits:
+          memory: '512M'
 
   devicemanagement:
     image: optimove-devicemanagement:0.0.1
-    ports:
-      - ${DEVICEMANAGEMENT_PORT}:8080
     depends_on:
       - gateway
     networks:
@@ -61,6 +84,11 @@ services:
     environment:
       - OIDC_HOST=${OIDC_HOST}
       - OIDC_REALM=${OIDC_REALM}
+      - DEVICEMANAGEMENT_PORT=${DEVICEMANAGEMENT_PORT}
+    deploy:
+      resources:
+        limits:
+          memory: '256M'
 
 volumes:
   postgres_data:
@@ -71,4 +99,10 @@ networks:
     driver: bridge
 
   services_network:
+    driver: bridge
+
+  postgres_network:
+    driver: bridge
+
+  redis_network:
     driver: bridge

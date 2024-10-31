@@ -1,0 +1,74 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: gateway
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: gateway
+  template:
+    metadata:
+      labels:
+        app: gateway
+    spec:
+      initContainers:
+      - name: wait-for-keycloak
+        image: busybox
+        command: ['sh', '-c', 'until nc -z keycloak 8080; do echo waiting for keycloak; sleep 2; done;']
+      - name: wait-for-redis
+        image: busybox
+        command: ['sh', '-c', 'until nc -z redis 6379; do echo waiting for redis; sleep 2; done;']
+      containers:
+      - name: gateway
+        image: optimove-gateway:0.0.1
+        ports:
+        - containerPort: 8080
+        env:
+        - name: OIDC_HOST
+          valueFrom:
+            configMapKeyRef:
+              name: gateway-config
+              key: OIDC_HOST
+        - name: OIDC_REALM
+          valueFrom:
+            configMapKeyRef:
+              name: gateway-config
+              key: OIDC_REALM
+        - name: OIDC_CLIENT
+          valueFrom:
+            configMapKeyRef:
+              name: gateway-config
+              key: OIDC_CLIENT
+        - name: OIDC_CLIENT_SECRET
+          valueFrom:
+            secretKeyRef:
+              name: gateway-secret
+              key: OIDC_CLIENT_SECRET
+        - name: DEVICEMANAGEMENT_PORT
+          valueFrom:
+            configMapKeyRef:
+              name: gateway-config
+              key: DEVICEMANAGEMENT_PORT
+        - name: SPRING_REDIS_HOST
+          valueFrom:
+            configMapKeyRef:
+              name: gateway-config
+              key: SPRING_REDIS_HOST
+        - name: SPRING_REDIS_PORT
+          valueFrom:
+            configMapKeyRef:
+              name: gateway-config
+              key: SPRING_REDIS_PORT
+        resources:
+          limits:
+            memory: "512Mi"
+        volumeMounts:
+        - name: config-volume
+          mountPath: /app/config/application.yml
+          subPath: application.yml
+      volumes:
+      - name: config-volume
+        configMap:
+          name: gateway-application-config
+      restartPolicy: Always

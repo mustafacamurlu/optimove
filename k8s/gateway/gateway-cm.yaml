@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: gateway-config
+data:
+  OIDC_HOST: "192.168.56.116:8080"
+  OIDC_REALM: "optimove"
+  OIDC_CLIENT: "optimove-app"
+  DEVICEMANAGEMENT_PORT: "8080"
+  SPRING_REDIS_HOST: "redis"
+  SPRING_REDIS_PORT: "6379"
