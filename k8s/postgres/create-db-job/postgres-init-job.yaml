@@ -1,0 +1,29 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: postgres-init-job
+spec:
+  template:
+    spec:
+      containers:
+        - name: init-db
+          image: postgres:13-alpine  # Lightweight PostgreSQL client
+          env:
+            - name: PGPASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: postgres-admin-secret
+                  key: POSTGRES_PASSWORD
+          command: ["sh", "-c", "psql -h postgres -U postgres -f /scripts/init-db.sql"]
+          volumeMounts:
+            - name: init-script-volume
+              mountPath: /scripts/init-db.sql
+              subPath: init-db.sql
+      restartPolicy: OnFailure
+      volumes:
+        - name: init-script-volume
+          secret:
+            secretName: postgres-init-secret
+            items:
+              - key: init-db.sql
+                path: init-db.sql

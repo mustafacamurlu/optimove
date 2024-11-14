@@ -1,0 +1,5005 @@
+{
+  "deviceId": "df1a0630-ae86-4f3e-8d42-1094d88b4e98",
+  "values": [
+    {
+      "temperature": 35.3,
+      "humidity": 51,
+      "ts": "2024-11-13T14:15:00.000Z"
+    },
+    {
+      "temperature": 28.3,
+      "humidity": 51,
+      "ts": "2024-11-13T14:15:00.500Z"
+    },
+    {
+      "temperature": 31.5,
+      "humidity": 44,
+      "ts": "2024-11-13T14:15:01.000Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 54,
+      "ts": "2024-11-13T14:15:01.500Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 54,
+      "ts": "2024-11-13T14:15:02.000Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 49,
+      "ts": "2024-11-13T14:15:02.500Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 50,
+      "ts": "2024-11-13T14:15:03.000Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 48,
+      "ts": "2024-11-13T14:15:03.500Z"
+    },
+    {
+      "temperature": 29,
+      "humidity": 43,
+      "ts": "2024-11-13T14:15:04.000Z"
+    },
+    {
+      "temperature": 32.5,
+      "humidity": 45,
+      "ts": "2024-11-13T14:15:04.500Z"
+    },
+    {
+      "temperature": 34.9,
+      "humidity": 40,
+      "ts": "2024-11-13T14:15:05.000Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 49,
+      "ts": "2024-11-13T14:15:05.500Z"
+    },
+    {
+      "temperature": 34.9,
+      "humidity": 51,
+      "ts": "2024-11-13T14:15:06.000Z"
+    },
+    {
+      "temperature": 29.3,
+      "humidity": 58,
+      "ts": "2024-11-13T14:15:06.500Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 53,
+      "ts": "2024-11-13T14:15:07.000Z"
+    },
+    {
+      "temperature": 35.9,
+      "humidity": 49,
+      "ts": "2024-11-13T14:15:07.500Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 59,
+      "ts": "2024-11-13T14:15:08.000Z"
+    },
+    {
+      "temperature": 29.5,
+      "humidity": 40,
+      "ts": "2024-11-13T14:15:08.500Z"
+    },
+    {
+      "temperature": 37.9,
+      "humidity": 56,
+      "ts": "2024-11-13T14:15:09.000Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 43,
+      "ts": "2024-11-13T14:15:09.500Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 59,
+      "ts": "2024-11-13T14:15:10.000Z"
+    },
+    {
+      "temperature": 29.6,
+      "humidity": 47,
+      "ts": "2024-11-13T14:15:10.500Z"
+    },
+    {
+      "temperature": 28.8,
+      "humidity": 53,
+      "ts": "2024-11-13T14:15:11.000Z"
+    },
+    {
+      "temperature": 30.8,
+      "humidity": 53,
+      "ts": "2024-11-13T14:15:11.500Z"
+    },
+    {
+      "temperature": 28.3,
+      "humidity": 45,
+      "ts": "2024-11-13T14:15:12.000Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 41,
+      "ts": "2024-11-13T14:15:12.500Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 54,
+      "ts": "2024-11-13T14:15:13.000Z"
+    },
+    {
+      "temperature": 29,
+      "humidity": 51,
+      "ts": "2024-11-13T14:15:13.500Z"
+    },
+    {
+      "temperature": 31.5,
+      "humidity": 42,
+      "ts": "2024-11-13T14:15:14.000Z"
+    },
+    {
+      "temperature": 34.6,
+      "humidity": 45,
+      "ts": "2024-11-13T14:15:14.500Z"
+    },
+    {
+      "temperature": 29.6,
+      "humidity": 57,
+      "ts": "2024-11-13T14:15:15.000Z"
+    },
+    {
+      "temperature": 37.5,
+      "humidity": 40,
+      "ts": "2024-11-13T14:15:15.500Z"
+    },
+    {
+      "temperature": 30.8,
+      "humidity": 56,
+      "ts": "2024-11-13T14:15:16.000Z"
+    },
+    {
+      "temperature": 37.1,
+      "humidity": 45,
+      "ts": "2024-11-13T14:15:16.500Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 48,
+      "ts": "2024-11-13T14:15:17.000Z"
+    },
+    {
+      "temperature": 31.4,
+      "humidity": 50,
+      "ts": "2024-11-13T14:15:17.500Z"
+    },
+    {
+      "temperature": 37.5,
+      "humidity": 50,
+      "ts": "2024-11-13T14:15:18.000Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:15:18.500Z"
+    },
+    {
+      "temperature": 32.3,
+      "humidity": 52,
+      "ts": "2024-11-13T14:15:19.000Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 48,
+      "ts": "2024-11-13T14:15:19.500Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 46,
+      "ts": "2024-11-13T14:15:20.000Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 44,
+      "ts": "2024-11-13T14:15:20.500Z"
+    },
+    {
+      "temperature": 31,
+      "humidity": 51,
+      "ts": "2024-11-13T14:15:21.000Z"
+    },
+    {
+      "temperature": 32.1,
+      "humidity": 49,
+      "ts": "2024-11-13T14:15:21.500Z"
+    },
+    {
+      "temperature": 30.3,
+      "humidity": 55,
+      "ts": "2024-11-13T14:15:22.000Z"
+    },
+    {
+      "temperature": 30.8,
+      "humidity": 59,
+      "ts": "2024-11-13T14:15:22.500Z"
+    },
+    {
+      "temperature": 30.6,
+      "humidity": 57,
+      "ts": "2024-11-13T14:15:23.000Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 42,
+      "ts": "2024-11-13T14:15:23.500Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 46,
+      "ts": "2024-11-13T14:15:24.000Z"
+    },
+    {
+      "temperature": 37.9,
+      "humidity": 55,
+      "ts": "2024-11-13T14:15:24.500Z"
+    },
+    {
+      "temperature": 31.7,
+      "humidity": 48,
+      "ts": "2024-11-13T14:15:25.000Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 46,
+      "ts": "2024-11-13T14:15:25.500Z"
+    },
+    {
+      "temperature": 34.1,
+      "humidity": 45,
+      "ts": "2024-11-13T14:15:26.000Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 59,
+      "ts": "2024-11-13T14:15:26.500Z"
+    },
+    {
+      "temperature": 35.2,
+      "humidity": 54,
+      "ts": "2024-11-13T14:15:27.000Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 50,
+      "ts": "2024-11-13T14:15:27.500Z"
+    },
+    {
+      "temperature": 36.4,
+      "humidity": 57,
+      "ts": "2024-11-13T14:15:28.000Z"
+    },
+    {
+      "temperature": 29,
+      "humidity": 54,
+      "ts": "2024-11-13T14:15:28.500Z"
+    },
+    {
+      "temperature": 30.6,
+      "humidity": 51,
+      "ts": "2024-11-13T14:15:29.000Z"
+    },
+    {
+      "temperature": 30,
+      "humidity": 43,
+      "ts": "2024-11-13T14:15:29.500Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 53,
+      "ts": "2024-11-13T14:15:30.000Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 46,
+      "ts": "2024-11-13T14:15:30.500Z"
+    },
+    {
+      "temperature": 32.9,
+      "humidity": 58,
+      "ts": "2024-11-13T14:15:31.000Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 54,
+      "ts": "2024-11-13T14:15:31.500Z"
+    },
+    {
+      "temperature": 34.9,
+      "humidity": 52,
+      "ts": "2024-11-13T14:15:32.000Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 55,
+      "ts": "2024-11-13T14:15:32.500Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 43,
+      "ts": "2024-11-13T14:15:33.000Z"
+    },
+    {
+      "temperature": 34.5,
+      "humidity": 58,
+      "ts": "2024-11-13T14:15:33.500Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 45,
+      "ts": "2024-11-13T14:15:34.000Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 52,
+      "ts": "2024-11-13T14:15:34.500Z"
+    },
+    {
+      "temperature": 37.4,
+      "humidity": 47,
+      "ts": "2024-11-13T14:15:35.000Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 41,
+      "ts": "2024-11-13T14:15:35.500Z"
+    },
+    {
+      "temperature": 32.3,
+      "humidity": 40,
+      "ts": "2024-11-13T14:15:36.000Z"
+    },
+    {
+      "temperature": 32.8,
+      "humidity": 43,
+      "ts": "2024-11-13T14:15:36.500Z"
+    },
+    {
+      "temperature": 33.2,
+      "humidity": 40,
+      "ts": "2024-11-13T14:15:37.000Z"
+    },
+    {
+      "temperature": 32.1,
+      "humidity": 48,
+      "ts": "2024-11-13T14:15:37.500Z"
+    },
+    {
+      "temperature": 30.1,
+      "humidity": 46,
+      "ts": "2024-11-13T14:15:38.000Z"
+    },
+    {
+      "temperature": 34.5,
+      "humidity": 58,
+      "ts": "2024-11-13T14:15:38.500Z"
+    },
+    {
+      "temperature": 30.5,
+      "humidity": 49,
+      "ts": "2024-11-13T14:15:39.000Z"
+    },
+    {
+      "temperature": 37.5,
+      "humidity": 48,
+      "ts": "2024-11-13T14:15:39.500Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 57,
+      "ts": "2024-11-13T14:15:40.000Z"
+    },
+    {
+      "temperature": 37.9,
+      "humidity": 51,
+      "ts": "2024-11-13T14:15:40.500Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 47,
+      "ts": "2024-11-13T14:15:41.000Z"
+    },
+    {
+      "temperature": 31.7,
+      "humidity": 48,
+      "ts": "2024-11-13T14:15:41.500Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 55,
+      "ts": "2024-11-13T14:15:42.000Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 50,
+      "ts": "2024-11-13T14:15:42.500Z"
+    },
+    {
+      "temperature": 30,
+      "humidity": 46,
+      "ts": "2024-11-13T14:15:43.000Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 46,
+      "ts": "2024-11-13T14:15:43.500Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 57,
+      "ts": "2024-11-13T14:15:44.000Z"
+    },
+    {
+      "temperature": 30.9,
+      "humidity": 48,
+      "ts": "2024-11-13T14:15:44.500Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:15:45.000Z"
+    },
+    {
+      "temperature": 31.9,
+      "humidity": 57,
+      "ts": "2024-11-13T14:15:45.500Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 44,
+      "ts": "2024-11-13T14:15:46.000Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:15:46.500Z"
+    },
+    {
+      "temperature": 34.6,
+      "humidity": 54,
+      "ts": "2024-11-13T14:15:47.000Z"
+    },
+    {
+      "temperature": 29.3,
+      "humidity": 47,
+      "ts": "2024-11-13T14:15:47.500Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 50,
+      "ts": "2024-11-13T14:15:48.000Z"
+    },
+    {
+      "temperature": 30.8,
+      "humidity": 57,
+      "ts": "2024-11-13T14:15:48.500Z"
+    },
+    {
+      "temperature": 29,
+      "humidity": 55,
+      "ts": "2024-11-13T14:15:49.000Z"
+    },
+    {
+      "temperature": 30.1,
+      "humidity": 54,
+      "ts": "2024-11-13T14:15:49.500Z"
+    },
+    {
+      "temperature": 34.1,
+      "humidity": 59,
+      "ts": "2024-11-13T14:15:50.000Z"
+    },
+    {
+      "temperature": 29.4,
+      "humidity": 49,
+      "ts": "2024-11-13T14:15:50.500Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 53,
+      "ts": "2024-11-13T14:15:51.000Z"
+    },
+    {
+      "temperature": 35.3,
+      "humidity": 40,
+      "ts": "2024-11-13T14:15:51.500Z"
+    },
+    {
+      "temperature": 32.5,
+      "humidity": 59,
+      "ts": "2024-11-13T14:15:52.000Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 57,
+      "ts": "2024-11-13T14:15:52.500Z"
+    },
+    {
+      "temperature": 33.8,
+      "humidity": 44,
+      "ts": "2024-11-13T14:15:53.000Z"
+    },
+    {
+      "temperature": 28,
+      "humidity": 46,
+      "ts": "2024-11-13T14:15:53.500Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 54,
+      "ts": "2024-11-13T14:15:54.000Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 46,
+      "ts": "2024-11-13T14:15:54.500Z"
+    },
+    {
+      "temperature": 35.2,
+      "humidity": 53,
+      "ts": "2024-11-13T14:15:55.000Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 57,
+      "ts": "2024-11-13T14:15:55.500Z"
+    },
+    {
+      "temperature": 34.6,
+      "humidity": 42,
+      "ts": "2024-11-13T14:15:56.000Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 49,
+      "ts": "2024-11-13T14:15:56.500Z"
+    },
+    {
+      "temperature": 35.9,
+      "humidity": 50,
+      "ts": "2024-11-13T14:15:57.000Z"
+    },
+    {
+      "temperature": 30.1,
+      "humidity": 47,
+      "ts": "2024-11-13T14:15:57.500Z"
+    },
+    {
+      "temperature": 35.5,
+      "humidity": 47,
+      "ts": "2024-11-13T14:15:58.000Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 44,
+      "ts": "2024-11-13T14:15:58.500Z"
+    },
+    {
+      "temperature": 32.5,
+      "humidity": 41,
+      "ts": "2024-11-13T14:15:59.000Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 56,
+      "ts": "2024-11-13T14:15:59.500Z"
+    },
+    {
+      "temperature": 30,
+      "humidity": 55,
+      "ts": "2024-11-13T14:16:00.000Z"
+    },
+    {
+      "temperature": 32.4,
+      "humidity": 50,
+      "ts": "2024-11-13T14:16:00.500Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 52,
+      "ts": "2024-11-13T14:16:01.000Z"
+    },
+    {
+      "temperature": 36.4,
+      "humidity": 57,
+      "ts": "2024-11-13T14:16:01.500Z"
+    },
+    {
+      "temperature": 32.1,
+      "humidity": 52,
+      "ts": "2024-11-13T14:16:02.000Z"
+    },
+    {
+      "temperature": 32.1,
+      "humidity": 43,
+      "ts": "2024-11-13T14:16:02.500Z"
+    },
+    {
+      "temperature": 30.9,
+      "humidity": 47,
+      "ts": "2024-11-13T14:16:03.000Z"
+    },
+    {
+      "temperature": 30.8,
+      "humidity": 42,
+      "ts": "2024-11-13T14:16:03.500Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 50,
+      "ts": "2024-11-13T14:16:04.000Z"
+    },
+    {
+      "temperature": 29.6,
+      "humidity": 43,
+      "ts": "2024-11-13T14:16:04.500Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 44,
+      "ts": "2024-11-13T14:16:05.000Z"
+    },
+    {
+      "temperature": 30.1,
+      "humidity": 52,
+      "ts": "2024-11-13T14:16:05.500Z"
+    },
+    {
+      "temperature": 32.1,
+      "humidity": 45,
+      "ts": "2024-11-13T14:16:06.000Z"
+    },
+    {
+      "temperature": 30.7,
+      "humidity": 49,
+      "ts": "2024-11-13T14:16:06.500Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 41,
+      "ts": "2024-11-13T14:16:07.000Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 53,
+      "ts": "2024-11-13T14:16:07.500Z"
+    },
+    {
+      "temperature": 30.7,
+      "humidity": 58,
+      "ts": "2024-11-13T14:16:08.000Z"
+    },
+    {
+      "temperature": 30.7,
+      "humidity": 55,
+      "ts": "2024-11-13T14:16:08.500Z"
+    },
+    {
+      "temperature": 34.9,
+      "humidity": 50,
+      "ts": "2024-11-13T14:16:09.000Z"
+    },
+    {
+      "temperature": 34.3,
+      "humidity": 59,
+      "ts": "2024-11-13T14:16:09.500Z"
+    },
+    {
+      "temperature": 32.5,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:10.000Z"
+    },
+    {
+      "temperature": 34.5,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:10.500Z"
+    },
+    {
+      "temperature": 34.5,
+      "humidity": 54,
+      "ts": "2024-11-13T14:16:11.000Z"
+    },
+    {
+      "temperature": 37.5,
+      "humidity": 52,
+      "ts": "2024-11-13T14:16:11.500Z"
+    },
+    {
+      "temperature": 37.1,
+      "humidity": 47,
+      "ts": "2024-11-13T14:16:12.000Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 47,
+      "ts": "2024-11-13T14:16:12.500Z"
+    },
+    {
+      "temperature": 30.6,
+      "humidity": 45,
+      "ts": "2024-11-13T14:16:13.000Z"
+    },
+    {
+      "temperature": 36.9,
+      "humidity": 51,
+      "ts": "2024-11-13T14:16:13.500Z"
+    },
+    {
+      "temperature": 30.8,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:14.000Z"
+    },
+    {
+      "temperature": 35.4,
+      "humidity": 58,
+      "ts": "2024-11-13T14:16:14.500Z"
+    },
+    {
+      "temperature": 29,
+      "humidity": 59,
+      "ts": "2024-11-13T14:16:15.000Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 47,
+      "ts": "2024-11-13T14:16:15.500Z"
+    },
+    {
+      "temperature": 33.7,
+      "humidity": 54,
+      "ts": "2024-11-13T14:16:16.000Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 51,
+      "ts": "2024-11-13T14:16:16.500Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 51,
+      "ts": "2024-11-13T14:16:17.000Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:17.500Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 49,
+      "ts": "2024-11-13T14:16:18.000Z"
+    },
+    {
+      "temperature": 36.9,
+      "humidity": 54,
+      "ts": "2024-11-13T14:16:18.500Z"
+    },
+    {
+      "temperature": 30.9,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:19.000Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 48,
+      "ts": "2024-11-13T14:16:19.500Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 59,
+      "ts": "2024-11-13T14:16:20.000Z"
+    },
+    {
+      "temperature": 32.9,
+      "humidity": 46,
+      "ts": "2024-11-13T14:16:20.500Z"
+    },
+    {
+      "temperature": 38,
+      "humidity": 57,
+      "ts": "2024-11-13T14:16:21.000Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 44,
+      "ts": "2024-11-13T14:16:21.500Z"
+    },
+    {
+      "temperature": 30.4,
+      "humidity": 55,
+      "ts": "2024-11-13T14:16:22.000Z"
+    },
+    {
+      "temperature": 31,
+      "humidity": 49,
+      "ts": "2024-11-13T14:16:22.500Z"
+    },
+    {
+      "temperature": 29.4,
+      "humidity": 48,
+      "ts": "2024-11-13T14:16:23.000Z"
+    },
+    {
+      "temperature": 28.4,
+      "humidity": 57,
+      "ts": "2024-11-13T14:16:23.500Z"
+    },
+    {
+      "temperature": 35.3,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:24.000Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 57,
+      "ts": "2024-11-13T14:16:24.500Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 50,
+      "ts": "2024-11-13T14:16:25.000Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 55,
+      "ts": "2024-11-13T14:16:25.500Z"
+    },
+    {
+      "temperature": 34.3,
+      "humidity": 46,
+      "ts": "2024-11-13T14:16:26.000Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 45,
+      "ts": "2024-11-13T14:16:26.500Z"
+    },
+    {
+      "temperature": 31.3,
+      "humidity": 53,
+      "ts": "2024-11-13T14:16:27.000Z"
+    },
+    {
+      "temperature": 32.1,
+      "humidity": 59,
+      "ts": "2024-11-13T14:16:27.500Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 51,
+      "ts": "2024-11-13T14:16:28.000Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 48,
+      "ts": "2024-11-13T14:16:28.500Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 54,
+      "ts": "2024-11-13T14:16:29.000Z"
+    },
+    {
+      "temperature": 35.4,
+      "humidity": 42,
+      "ts": "2024-11-13T14:16:29.500Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 47,
+      "ts": "2024-11-13T14:16:30.000Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 57,
+      "ts": "2024-11-13T14:16:30.500Z"
+    },
+    {
+      "temperature": 32.1,
+      "humidity": 59,
+      "ts": "2024-11-13T14:16:31.000Z"
+    },
+    {
+      "temperature": 37.8,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:31.500Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 54,
+      "ts": "2024-11-13T14:16:32.000Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 59,
+      "ts": "2024-11-13T14:16:32.500Z"
+    },
+    {
+      "temperature": 36.1,
+      "humidity": 48,
+      "ts": "2024-11-13T14:16:33.000Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 44,
+      "ts": "2024-11-13T14:16:33.500Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 55,
+      "ts": "2024-11-13T14:16:34.000Z"
+    },
+    {
+      "temperature": 30.6,
+      "humidity": 57,
+      "ts": "2024-11-13T14:16:34.500Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 54,
+      "ts": "2024-11-13T14:16:35.000Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 48,
+      "ts": "2024-11-13T14:16:35.500Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 42,
+      "ts": "2024-11-13T14:16:36.000Z"
+    },
+    {
+      "temperature": 35.2,
+      "humidity": 55,
+      "ts": "2024-11-13T14:16:36.500Z"
+    },
+    {
+      "temperature": 36.4,
+      "humidity": 51,
+      "ts": "2024-11-13T14:16:37.000Z"
+    },
+    {
+      "temperature": 33.3,
+      "humidity": 47,
+      "ts": "2024-11-13T14:16:37.500Z"
+    },
+    {
+      "temperature": 30.3,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:38.000Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 46,
+      "ts": "2024-11-13T14:16:38.500Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 53,
+      "ts": "2024-11-13T14:16:39.000Z"
+    },
+    {
+      "temperature": 32.4,
+      "humidity": 57,
+      "ts": "2024-11-13T14:16:39.500Z"
+    },
+    {
+      "temperature": 33.3,
+      "humidity": 46,
+      "ts": "2024-11-13T14:16:40.000Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 49,
+      "ts": "2024-11-13T14:16:40.500Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 49,
+      "ts": "2024-11-13T14:16:41.000Z"
+    },
+    {
+      "temperature": 29.8,
+      "humidity": 44,
+      "ts": "2024-11-13T14:16:41.500Z"
+    },
+    {
+      "temperature": 34.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:16:42.000Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 51,
+      "ts": "2024-11-13T14:16:42.500Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 42,
+      "ts": "2024-11-13T14:16:43.000Z"
+    },
+    {
+      "temperature": 33.5,
+      "humidity": 43,
+      "ts": "2024-11-13T14:16:43.500Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 59,
+      "ts": "2024-11-13T14:16:44.000Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 41,
+      "ts": "2024-11-13T14:16:44.500Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 56,
+      "ts": "2024-11-13T14:16:45.000Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 48,
+      "ts": "2024-11-13T14:16:45.500Z"
+    },
+    {
+      "temperature": 31.8,
+      "humidity": 48,
+      "ts": "2024-11-13T14:16:46.000Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 58,
+      "ts": "2024-11-13T14:16:46.500Z"
+    },
+    {
+      "temperature": 34.5,
+      "humidity": 45,
+      "ts": "2024-11-13T14:16:47.000Z"
+    },
+    {
+      "temperature": 31.8,
+      "humidity": 50,
+      "ts": "2024-11-13T14:16:47.500Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 42,
+      "ts": "2024-11-13T14:16:48.000Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 44,
+      "ts": "2024-11-13T14:16:48.500Z"
+    },
+    {
+      "temperature": 31.5,
+      "humidity": 56,
+      "ts": "2024-11-13T14:16:49.000Z"
+    },
+    {
+      "temperature": 36.6,
+      "humidity": 42,
+      "ts": "2024-11-13T14:16:49.500Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 58,
+      "ts": "2024-11-13T14:16:50.000Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 42,
+      "ts": "2024-11-13T14:16:50.500Z"
+    },
+    {
+      "temperature": 29.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:16:51.000Z"
+    },
+    {
+      "temperature": 37.1,
+      "humidity": 56,
+      "ts": "2024-11-13T14:16:51.500Z"
+    },
+    {
+      "temperature": 29.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:16:52.000Z"
+    },
+    {
+      "temperature": 31.4,
+      "humidity": 48,
+      "ts": "2024-11-13T14:16:52.500Z"
+    },
+    {
+      "temperature": 31.8,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:53.000Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 58,
+      "ts": "2024-11-13T14:16:53.500Z"
+    },
+    {
+      "temperature": 30.8,
+      "humidity": 43,
+      "ts": "2024-11-13T14:16:54.000Z"
+    },
+    {
+      "temperature": 29.4,
+      "humidity": 44,
+      "ts": "2024-11-13T14:16:54.500Z"
+    },
+    {
+      "temperature": 33.8,
+      "humidity": 49,
+      "ts": "2024-11-13T14:16:55.000Z"
+    },
+    {
+      "temperature": 30.5,
+      "humidity": 52,
+      "ts": "2024-11-13T14:16:55.500Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:56.000Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 55,
+      "ts": "2024-11-13T14:16:56.500Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:57.000Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 57,
+      "ts": "2024-11-13T14:16:57.500Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 50,
+      "ts": "2024-11-13T14:16:58.000Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 41,
+      "ts": "2024-11-13T14:16:58.500Z"
+    },
+    {
+      "temperature": 37.9,
+      "humidity": 40,
+      "ts": "2024-11-13T14:16:59.000Z"
+    },
+    {
+      "temperature": 30.5,
+      "humidity": 44,
+      "ts": "2024-11-13T14:16:59.500Z"
+    },
+    {
+      "temperature": 28.8,
+      "humidity": 56,
+      "ts": "2024-11-13T14:17:00.000Z"
+    },
+    {
+      "temperature": 37.9,
+      "humidity": 46,
+      "ts": "2024-11-13T14:17:00.500Z"
+    },
+    {
+      "temperature": 36.1,
+      "humidity": 51,
+      "ts": "2024-11-13T14:17:01.000Z"
+    },
+    {
+      "temperature": 28.3,
+      "humidity": 57,
+      "ts": "2024-11-13T14:17:01.500Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 57,
+      "ts": "2024-11-13T14:17:02.000Z"
+    },
+    {
+      "temperature": 31,
+      "humidity": 51,
+      "ts": "2024-11-13T14:17:02.500Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 49,
+      "ts": "2024-11-13T14:17:03.000Z"
+    },
+    {
+      "temperature": 29.8,
+      "humidity": 57,
+      "ts": "2024-11-13T14:17:03.500Z"
+    },
+    {
+      "temperature": 28.6,
+      "humidity": 55,
+      "ts": "2024-11-13T14:17:04.000Z"
+    },
+    {
+      "temperature": 32.7,
+      "humidity": 43,
+      "ts": "2024-11-13T14:17:04.500Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 40,
+      "ts": "2024-11-13T14:17:05.000Z"
+    },
+    {
+      "temperature": 31.8,
+      "humidity": 44,
+      "ts": "2024-11-13T14:17:05.500Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 47,
+      "ts": "2024-11-13T14:17:06.000Z"
+    },
+    {
+      "temperature": 35.3,
+      "humidity": 48,
+      "ts": "2024-11-13T14:17:06.500Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 57,
+      "ts": "2024-11-13T14:17:07.000Z"
+    },
+    {
+      "temperature": 34.6,
+      "humidity": 58,
+      "ts": "2024-11-13T14:17:07.500Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 45,
+      "ts": "2024-11-13T14:17:08.000Z"
+    },
+    {
+      "temperature": 35.4,
+      "humidity": 57,
+      "ts": "2024-11-13T14:17:08.500Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 48,
+      "ts": "2024-11-13T14:17:09.000Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:17:09.500Z"
+    },
+    {
+      "temperature": 36,
+      "humidity": 40,
+      "ts": "2024-11-13T14:17:10.000Z"
+    },
+    {
+      "temperature": 32.8,
+      "humidity": 45,
+      "ts": "2024-11-13T14:17:10.500Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 46,
+      "ts": "2024-11-13T14:17:11.000Z"
+    },
+    {
+      "temperature": 34.3,
+      "humidity": 53,
+      "ts": "2024-11-13T14:17:11.500Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:17:12.000Z"
+    },
+    {
+      "temperature": 28.4,
+      "humidity": 46,
+      "ts": "2024-11-13T14:17:12.500Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 44,
+      "ts": "2024-11-13T14:17:13.000Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 41,
+      "ts": "2024-11-13T14:17:13.500Z"
+    },
+    {
+      "temperature": 31.5,
+      "humidity": 43,
+      "ts": "2024-11-13T14:17:14.000Z"
+    },
+    {
+      "temperature": 30.5,
+      "humidity": 40,
+      "ts": "2024-11-13T14:17:14.500Z"
+    },
+    {
+      "temperature": 33.5,
+      "humidity": 45,
+      "ts": "2024-11-13T14:17:15.000Z"
+    },
+    {
+      "temperature": 32.7,
+      "humidity": 59,
+      "ts": "2024-11-13T14:17:15.500Z"
+    },
+    {
+      "temperature": 29,
+      "humidity": 46,
+      "ts": "2024-11-13T14:17:16.000Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 58,
+      "ts": "2024-11-13T14:17:16.500Z"
+    },
+    {
+      "temperature": 35.3,
+      "humidity": 52,
+      "ts": "2024-11-13T14:17:17.000Z"
+    },
+    {
+      "temperature": 36.4,
+      "humidity": 56,
+      "ts": "2024-11-13T14:17:17.500Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 49,
+      "ts": "2024-11-13T14:17:18.000Z"
+    },
+    {
+      "temperature": 31.9,
+      "humidity": 53,
+      "ts": "2024-11-13T14:17:18.500Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 51,
+      "ts": "2024-11-13T14:17:19.000Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 49,
+      "ts": "2024-11-13T14:17:19.500Z"
+    },
+    {
+      "temperature": 30.5,
+      "humidity": 51,
+      "ts": "2024-11-13T14:17:20.000Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 43,
+      "ts": "2024-11-13T14:17:20.500Z"
+    },
+    {
+      "temperature": 32.3,
+      "humidity": 48,
+      "ts": "2024-11-13T14:17:21.000Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 53,
+      "ts": "2024-11-13T14:17:21.500Z"
+    },
+    {
+      "temperature": 36.6,
+      "humidity": 46,
+      "ts": "2024-11-13T14:17:22.000Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 51,
+      "ts": "2024-11-13T14:17:22.500Z"
+    },
+    {
+      "temperature": 33.3,
+      "humidity": 46,
+      "ts": "2024-11-13T14:17:23.000Z"
+    },
+    {
+      "temperature": 30.6,
+      "humidity": 53,
+      "ts": "2024-11-13T14:17:23.500Z"
+    },
+    {
+      "temperature": 30,
+      "humidity": 43,
+      "ts": "2024-11-13T14:17:24.000Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 45,
+      "ts": "2024-11-13T14:17:24.500Z"
+    },
+    {
+      "temperature": 34.1,
+      "humidity": 45,
+      "ts": "2024-11-13T14:17:25.000Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 44,
+      "ts": "2024-11-13T14:17:25.500Z"
+    },
+    {
+      "temperature": 35.4,
+      "humidity": 52,
+      "ts": "2024-11-13T14:17:26.000Z"
+    },
+    {
+      "temperature": 29,
+      "humidity": 47,
+      "ts": "2024-11-13T14:17:26.500Z"
+    },
+    {
+      "temperature": 35.2,
+      "humidity": 59,
+      "ts": "2024-11-13T14:17:27.000Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 40,
+      "ts": "2024-11-13T14:17:27.500Z"
+    },
+    {
+      "temperature": 31.9,
+      "humidity": 56,
+      "ts": "2024-11-13T14:17:28.000Z"
+    },
+    {
+      "temperature": 31.9,
+      "humidity": 44,
+      "ts": "2024-11-13T14:17:28.500Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 44,
+      "ts": "2024-11-13T14:17:29.000Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 57,
+      "ts": "2024-11-13T14:17:29.500Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 42,
+      "ts": "2024-11-13T14:17:30.000Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 51,
+      "ts": "2024-11-13T14:17:30.500Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 56,
+      "ts": "2024-11-13T14:17:31.000Z"
+    },
+    {
+      "temperature": 28.7,
+      "humidity": 46,
+      "ts": "2024-11-13T14:17:31.500Z"
+    },
+    {
+      "temperature": 34.4,
+      "humidity": 50,
+      "ts": "2024-11-13T14:17:32.000Z"
+    },
+    {
+      "temperature": 35.3,
+      "humidity": 54,
+      "ts": "2024-11-13T14:17:32.500Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 50,
+      "ts": "2024-11-13T14:17:33.000Z"
+    },
+    {
+      "temperature": 36.4,
+      "humidity": 52,
+      "ts": "2024-11-13T14:17:33.500Z"
+    },
+    {
+      "temperature": 36.7,
+      "humidity": 55,
+      "ts": "2024-11-13T14:17:34.000Z"
+    },
+    {
+      "temperature": 36.1,
+      "humidity": 41,
+      "ts": "2024-11-13T14:17:34.500Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 59,
+      "ts": "2024-11-13T14:17:35.000Z"
+    },
+    {
+      "temperature": 28.3,
+      "humidity": 42,
+      "ts": "2024-11-13T14:17:35.500Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 50,
+      "ts": "2024-11-13T14:17:36.000Z"
+    },
+    {
+      "temperature": 28.7,
+      "humidity": 41,
+      "ts": "2024-11-13T14:17:36.500Z"
+    },
+    {
+      "temperature": 36.1,
+      "humidity": 47,
+      "ts": "2024-11-13T14:17:37.000Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 46,
+      "ts": "2024-11-13T14:17:37.500Z"
+    },
+    {
+      "temperature": 32.9,
+      "humidity": 43,
+      "ts": "2024-11-13T14:17:38.000Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 49,
+      "ts": "2024-11-13T14:17:38.500Z"
+    },
+    {
+      "temperature": 29.4,
+      "humidity": 45,
+      "ts": "2024-11-13T14:17:39.000Z"
+    },
+    {
+      "temperature": 37.1,
+      "humidity": 52,
+      "ts": "2024-11-13T14:17:39.500Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 45,
+      "ts": "2024-11-13T14:17:40.000Z"
+    },
+    {
+      "temperature": 31.3,
+      "humidity": 47,
+      "ts": "2024-11-13T14:17:40.500Z"
+    },
+    {
+      "temperature": 31.3,
+      "humidity": 47,
+      "ts": "2024-11-13T14:17:41.000Z"
+    },
+    {
+      "temperature": 32.6,
+      "humidity": 54,
+      "ts": "2024-11-13T14:17:41.500Z"
+    },
+    {
+      "temperature": 35.4,
+      "humidity": 51,
+      "ts": "2024-11-13T14:17:42.000Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 52,
+      "ts": "2024-11-13T14:17:42.500Z"
+    },
+    {
+      "temperature": 30.3,
+      "humidity": 48,
+      "ts": "2024-11-13T14:17:43.000Z"
+    },
+    {
+      "temperature": 31.8,
+      "humidity": 48,
+      "ts": "2024-11-13T14:17:43.500Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 40,
+      "ts": "2024-11-13T14:17:44.000Z"
+    },
+    {
+      "temperature": 30.4,
+      "humidity": 49,
+      "ts": "2024-11-13T14:17:44.500Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 58,
+      "ts": "2024-11-13T14:17:45.000Z"
+    },
+    {
+      "temperature": 36.6,
+      "humidity": 56,
+      "ts": "2024-11-13T14:17:45.500Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 52,
+      "ts": "2024-11-13T14:17:46.000Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 49,
+      "ts": "2024-11-13T14:17:46.500Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 58,
+      "ts": "2024-11-13T14:17:47.000Z"
+    },
+    {
+      "temperature": 33.3,
+      "humidity": 51,
+      "ts": "2024-11-13T14:17:47.500Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 51,
+      "ts": "2024-11-13T14:17:48.000Z"
+    },
+    {
+      "temperature": 36.9,
+      "humidity": 49,
+      "ts": "2024-11-13T14:17:48.500Z"
+    },
+    {
+      "temperature": 31.8,
+      "humidity": 56,
+      "ts": "2024-11-13T14:17:49.000Z"
+    },
+    {
+      "temperature": 34.9,
+      "humidity": 45,
+      "ts": "2024-11-13T14:17:49.500Z"
+    },
+    {
+      "temperature": 28,
+      "humidity": 48,
+      "ts": "2024-11-13T14:17:50.000Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 55,
+      "ts": "2024-11-13T14:17:50.500Z"
+    },
+    {
+      "temperature": 30.3,
+      "humidity": 47,
+      "ts": "2024-11-13T14:17:51.000Z"
+    },
+    {
+      "temperature": 29.8,
+      "humidity": 49,
+      "ts": "2024-11-13T14:17:51.500Z"
+    },
+    {
+      "temperature": 37.1,
+      "humidity": 41,
+      "ts": "2024-11-13T14:17:52.000Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 55,
+      "ts": "2024-11-13T14:17:52.500Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 59,
+      "ts": "2024-11-13T14:17:53.000Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 40,
+      "ts": "2024-11-13T14:17:53.500Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 49,
+      "ts": "2024-11-13T14:17:54.000Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 50,
+      "ts": "2024-11-13T14:17:54.500Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:17:55.000Z"
+    },
+    {
+      "temperature": 33.5,
+      "humidity": 45,
+      "ts": "2024-11-13T14:17:55.500Z"
+    },
+    {
+      "temperature": 30,
+      "humidity": 59,
+      "ts": "2024-11-13T14:17:56.000Z"
+    },
+    {
+      "temperature": 36.6,
+      "humidity": 45,
+      "ts": "2024-11-13T14:17:56.500Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 44,
+      "ts": "2024-11-13T14:17:57.000Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 57,
+      "ts": "2024-11-13T14:17:57.500Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 41,
+      "ts": "2024-11-13T14:17:58.000Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 53,
+      "ts": "2024-11-13T14:17:58.500Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 40,
+      "ts": "2024-11-13T14:17:59.000Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 45,
+      "ts": "2024-11-13T14:17:59.500Z"
+    },
+    {
+      "temperature": 30.4,
+      "humidity": 50,
+      "ts": "2024-11-13T14:18:00.000Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 48,
+      "ts": "2024-11-13T14:18:00.500Z"
+    },
+    {
+      "temperature": 30,
+      "humidity": 49,
+      "ts": "2024-11-13T14:18:01.000Z"
+    },
+    {
+      "temperature": 34.1,
+      "humidity": 58,
+      "ts": "2024-11-13T14:18:01.500Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 44,
+      "ts": "2024-11-13T14:18:02.000Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 43,
+      "ts": "2024-11-13T14:18:02.500Z"
+    },
+    {
+      "temperature": 35.3,
+      "humidity": 52,
+      "ts": "2024-11-13T14:18:03.000Z"
+    },
+    {
+      "temperature": 30.4,
+      "humidity": 55,
+      "ts": "2024-11-13T14:18:03.500Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 58,
+      "ts": "2024-11-13T14:18:04.000Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 42,
+      "ts": "2024-11-13T14:18:04.500Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 50,
+      "ts": "2024-11-13T14:18:05.000Z"
+    },
+    {
+      "temperature": 29.6,
+      "humidity": 45,
+      "ts": "2024-11-13T14:18:05.500Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 52,
+      "ts": "2024-11-13T14:18:06.000Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 56,
+      "ts": "2024-11-13T14:18:06.500Z"
+    },
+    {
+      "temperature": 31.5,
+      "humidity": 40,
+      "ts": "2024-11-13T14:18:07.000Z"
+    },
+    {
+      "temperature": 33.7,
+      "humidity": 50,
+      "ts": "2024-11-13T14:18:07.500Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 49,
+      "ts": "2024-11-13T14:18:08.000Z"
+    },
+    {
+      "temperature": 28.6,
+      "humidity": 42,
+      "ts": "2024-11-13T14:18:08.500Z"
+    },
+    {
+      "temperature": 34.9,
+      "humidity": 48,
+      "ts": "2024-11-13T14:18:09.000Z"
+    },
+    {
+      "temperature": 33.3,
+      "humidity": 42,
+      "ts": "2024-11-13T14:18:09.500Z"
+    },
+    {
+      "temperature": 29.4,
+      "humidity": 51,
+      "ts": "2024-11-13T14:18:10.000Z"
+    },
+    {
+      "temperature": 30.5,
+      "humidity": 59,
+      "ts": "2024-11-13T14:18:10.500Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 42,
+      "ts": "2024-11-13T14:18:11.000Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 45,
+      "ts": "2024-11-13T14:18:11.500Z"
+    },
+    {
+      "temperature": 34.3,
+      "humidity": 50,
+      "ts": "2024-11-13T14:18:12.000Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 44,
+      "ts": "2024-11-13T14:18:12.500Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 46,
+      "ts": "2024-11-13T14:18:13.000Z"
+    },
+    {
+      "temperature": 35.3,
+      "humidity": 40,
+      "ts": "2024-11-13T14:18:13.500Z"
+    },
+    {
+      "temperature": 36,
+      "humidity": 55,
+      "ts": "2024-11-13T14:18:14.000Z"
+    },
+    {
+      "temperature": 36.7,
+      "humidity": 50,
+      "ts": "2024-11-13T14:18:14.500Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 49,
+      "ts": "2024-11-13T14:18:15.000Z"
+    },
+    {
+      "temperature": 36.6,
+      "humidity": 59,
+      "ts": "2024-11-13T14:18:15.500Z"
+    },
+    {
+      "temperature": 31.8,
+      "humidity": 42,
+      "ts": "2024-11-13T14:18:16.000Z"
+    },
+    {
+      "temperature": 35.5,
+      "humidity": 57,
+      "ts": "2024-11-13T14:18:16.500Z"
+    },
+    {
+      "temperature": 32.6,
+      "humidity": 44,
+      "ts": "2024-11-13T14:18:17.000Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 49,
+      "ts": "2024-11-13T14:18:17.500Z"
+    },
+    {
+      "temperature": 30.5,
+      "humidity": 48,
+      "ts": "2024-11-13T14:18:18.000Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 40,
+      "ts": "2024-11-13T14:18:18.500Z"
+    },
+    {
+      "temperature": 36.6,
+      "humidity": 56,
+      "ts": "2024-11-13T14:18:19.000Z"
+    },
+    {
+      "temperature": 33.7,
+      "humidity": 53,
+      "ts": "2024-11-13T14:18:19.500Z"
+    },
+    {
+      "temperature": 31,
+      "humidity": 40,
+      "ts": "2024-11-13T14:18:20.000Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 45,
+      "ts": "2024-11-13T14:18:20.500Z"
+    },
+    {
+      "temperature": 37,
+      "humidity": 45,
+      "ts": "2024-11-13T14:18:21.000Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 50,
+      "ts": "2024-11-13T14:18:21.500Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 59,
+      "ts": "2024-11-13T14:18:22.000Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 40,
+      "ts": "2024-11-13T14:18:22.500Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 49,
+      "ts": "2024-11-13T14:18:23.000Z"
+    },
+    {
+      "temperature": 33.3,
+      "humidity": 53,
+      "ts": "2024-11-13T14:18:23.500Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 54,
+      "ts": "2024-11-13T14:18:24.000Z"
+    },
+    {
+      "temperature": 30,
+      "humidity": 47,
+      "ts": "2024-11-13T14:18:24.500Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 52,
+      "ts": "2024-11-13T14:18:25.000Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 51,
+      "ts": "2024-11-13T14:18:25.500Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 53,
+      "ts": "2024-11-13T14:18:26.000Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 53,
+      "ts": "2024-11-13T14:18:26.500Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 52,
+      "ts": "2024-11-13T14:18:27.000Z"
+    },
+    {
+      "temperature": 29.5,
+      "humidity": 51,
+      "ts": "2024-11-13T14:18:27.500Z"
+    },
+    {
+      "temperature": 37,
+      "humidity": 42,
+      "ts": "2024-11-13T14:18:28.000Z"
+    },
+    {
+      "temperature": 35.5,
+      "humidity": 54,
+      "ts": "2024-11-13T14:18:28.500Z"
+    },
+    {
+      "temperature": 37.5,
+      "humidity": 49,
+      "ts": "2024-11-13T14:18:29.000Z"
+    },
+    {
+      "temperature": 32,
+      "humidity": 54,
+      "ts": "2024-11-13T14:18:29.500Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 57,
+      "ts": "2024-11-13T14:18:30.000Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 47,
+      "ts": "2024-11-13T14:18:30.500Z"
+    },
+    {
+      "temperature": 36.3,
+      "humidity": 41,
+      "ts": "2024-11-13T14:18:31.000Z"
+    },
+    {
+      "temperature": 36,
+      "humidity": 58,
+      "ts": "2024-11-13T14:18:31.500Z"
+    },
+    {
+      "temperature": 31.8,
+      "humidity": 51,
+      "ts": "2024-11-13T14:18:32.000Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 45,
+      "ts": "2024-11-13T14:18:32.500Z"
+    },
+    {
+      "temperature": 35.3,
+      "humidity": 55,
+      "ts": "2024-11-13T14:18:33.000Z"
+    },
+    {
+      "temperature": 37.9,
+      "humidity": 52,
+      "ts": "2024-11-13T14:18:33.500Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 40,
+      "ts": "2024-11-13T14:18:34.000Z"
+    },
+    {
+      "temperature": 29.2,
+      "humidity": 48,
+      "ts": "2024-11-13T14:18:34.500Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 52,
+      "ts": "2024-11-13T14:18:35.000Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 48,
+      "ts": "2024-11-13T14:18:35.500Z"
+    },
+    {
+      "temperature": 35.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:18:36.000Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 49,
+      "ts": "2024-11-13T14:18:36.500Z"
+    },
+    {
+      "temperature": 30.3,
+      "humidity": 54,
+      "ts": "2024-11-13T14:18:37.000Z"
+    },
+    {
+      "temperature": 28.1,
+      "humidity": 58,
+      "ts": "2024-11-13T14:18:37.500Z"
+    },
+    {
+      "temperature": 32.7,
+      "humidity": 43,
+      "ts": "2024-11-13T14:18:38.000Z"
+    },
+    {
+      "temperature": 35.9,
+      "humidity": 47,
+      "ts": "2024-11-13T14:18:38.500Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 44,
+      "ts": "2024-11-13T14:18:39.000Z"
+    },
+    {
+      "temperature": 35.2,
+      "humidity": 49,
+      "ts": "2024-11-13T14:18:39.500Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 45,
+      "ts": "2024-11-13T14:18:40.000Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 41,
+      "ts": "2024-11-13T14:18:40.500Z"
+    },
+    {
+      "temperature": 35.5,
+      "humidity": 54,
+      "ts": "2024-11-13T14:18:41.000Z"
+    },
+    {
+      "temperature": 37.8,
+      "humidity": 52,
+      "ts": "2024-11-13T14:18:41.500Z"
+    },
+    {
+      "temperature": 35.9,
+      "humidity": 42,
+      "ts": "2024-11-13T14:18:42.000Z"
+    },
+    {
+      "temperature": 37,
+      "humidity": 53,
+      "ts": "2024-11-13T14:18:42.500Z"
+    },
+    {
+      "temperature": 36.6,
+      "humidity": 57,
+      "ts": "2024-11-13T14:18:43.000Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 49,
+      "ts": "2024-11-13T14:18:43.500Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 57,
+      "ts": "2024-11-13T14:18:44.000Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 57,
+      "ts": "2024-11-13T14:18:44.500Z"
+    },
+    {
+      "temperature": 32,
+      "humidity": 46,
+      "ts": "2024-11-13T14:18:45.000Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 54,
+      "ts": "2024-11-13T14:18:45.500Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 59,
+      "ts": "2024-11-13T14:18:46.000Z"
+    },
+    {
+      "temperature": 36,
+      "humidity": 55,
+      "ts": "2024-11-13T14:18:46.500Z"
+    },
+    {
+      "temperature": 32.8,
+      "humidity": 48,
+      "ts": "2024-11-13T14:18:47.000Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 52,
+      "ts": "2024-11-13T14:18:47.500Z"
+    },
+    {
+      "temperature": 35.4,
+      "humidity": 54,
+      "ts": "2024-11-13T14:18:48.000Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 53,
+      "ts": "2024-11-13T14:18:48.500Z"
+    },
+    {
+      "temperature": 36.4,
+      "humidity": 53,
+      "ts": "2024-11-13T14:18:49.000Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 47,
+      "ts": "2024-11-13T14:18:49.500Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 57,
+      "ts": "2024-11-13T14:18:50.000Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 58,
+      "ts": "2024-11-13T14:18:50.500Z"
+    },
+    {
+      "temperature": 30.7,
+      "humidity": 44,
+      "ts": "2024-11-13T14:18:51.000Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 43,
+      "ts": "2024-11-13T14:18:51.500Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 48,
+      "ts": "2024-11-13T14:18:52.000Z"
+    },
+    {
+      "temperature": 36.3,
+      "humidity": 48,
+      "ts": "2024-11-13T14:18:52.500Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 40,
+      "ts": "2024-11-13T14:18:53.000Z"
+    },
+    {
+      "temperature": 28.4,
+      "humidity": 47,
+      "ts": "2024-11-13T14:18:53.500Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 46,
+      "ts": "2024-11-13T14:18:54.000Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 40,
+      "ts": "2024-11-13T14:18:54.500Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 50,
+      "ts": "2024-11-13T14:18:55.000Z"
+    },
+    {
+      "temperature": 29.3,
+      "humidity": 57,
+      "ts": "2024-11-13T14:18:55.500Z"
+    },
+    {
+      "temperature": 31.9,
+      "humidity": 49,
+      "ts": "2024-11-13T14:18:56.000Z"
+    },
+    {
+      "temperature": 29,
+      "humidity": 59,
+      "ts": "2024-11-13T14:18:56.500Z"
+    },
+    {
+      "temperature": 37,
+      "humidity": 43,
+      "ts": "2024-11-13T14:18:57.000Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 55,
+      "ts": "2024-11-13T14:18:57.500Z"
+    },
+    {
+      "temperature": 36.3,
+      "humidity": 44,
+      "ts": "2024-11-13T14:18:58.000Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 52,
+      "ts": "2024-11-13T14:18:58.500Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:18:59.000Z"
+    },
+    {
+      "temperature": 32.5,
+      "humidity": 45,
+      "ts": "2024-11-13T14:18:59.500Z"
+    },
+    {
+      "temperature": 36.7,
+      "humidity": 46,
+      "ts": "2024-11-13T14:19:00.000Z"
+    },
+    {
+      "temperature": 32.5,
+      "humidity": 44,
+      "ts": "2024-11-13T14:19:00.500Z"
+    },
+    {
+      "temperature": 31,
+      "humidity": 42,
+      "ts": "2024-11-13T14:19:01.000Z"
+    },
+    {
+      "temperature": 30.8,
+      "humidity": 52,
+      "ts": "2024-11-13T14:19:01.500Z"
+    },
+    {
+      "temperature": 37.9,
+      "humidity": 56,
+      "ts": "2024-11-13T14:19:02.000Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 55,
+      "ts": "2024-11-13T14:19:02.500Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 57,
+      "ts": "2024-11-13T14:19:03.000Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 57,
+      "ts": "2024-11-13T14:19:03.500Z"
+    },
+    {
+      "temperature": 32.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:19:04.000Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 44,
+      "ts": "2024-11-13T14:19:04.500Z"
+    },
+    {
+      "temperature": 37.1,
+      "humidity": 48,
+      "ts": "2024-11-13T14:19:05.000Z"
+    },
+    {
+      "temperature": 32.5,
+      "humidity": 58,
+      "ts": "2024-11-13T14:19:05.500Z"
+    },
+    {
+      "temperature": 32.3,
+      "humidity": 52,
+      "ts": "2024-11-13T14:19:06.000Z"
+    },
+    {
+      "temperature": 33.7,
+      "humidity": 47,
+      "ts": "2024-11-13T14:19:06.500Z"
+    },
+    {
+      "temperature": 35.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:19:07.000Z"
+    },
+    {
+      "temperature": 31.5,
+      "humidity": 52,
+      "ts": "2024-11-13T14:19:07.500Z"
+    },
+    {
+      "temperature": 36.3,
+      "humidity": 50,
+      "ts": "2024-11-13T14:19:08.000Z"
+    },
+    {
+      "temperature": 33.2,
+      "humidity": 58,
+      "ts": "2024-11-13T14:19:08.500Z"
+    },
+    {
+      "temperature": 37.4,
+      "humidity": 53,
+      "ts": "2024-11-13T14:19:09.000Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 59,
+      "ts": "2024-11-13T14:19:09.500Z"
+    },
+    {
+      "temperature": 37.8,
+      "humidity": 57,
+      "ts": "2024-11-13T14:19:10.000Z"
+    },
+    {
+      "temperature": 37.5,
+      "humidity": 43,
+      "ts": "2024-11-13T14:19:10.500Z"
+    },
+    {
+      "temperature": 36.7,
+      "humidity": 59,
+      "ts": "2024-11-13T14:19:11.000Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 46,
+      "ts": "2024-11-13T14:19:11.500Z"
+    },
+    {
+      "temperature": 32.8,
+      "humidity": 59,
+      "ts": "2024-11-13T14:19:12.000Z"
+    },
+    {
+      "temperature": 33.2,
+      "humidity": 53,
+      "ts": "2024-11-13T14:19:12.500Z"
+    },
+    {
+      "temperature": 29.4,
+      "humidity": 55,
+      "ts": "2024-11-13T14:19:13.000Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 43,
+      "ts": "2024-11-13T14:19:13.500Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 48,
+      "ts": "2024-11-13T14:19:14.000Z"
+    },
+    {
+      "temperature": 30.1,
+      "humidity": 42,
+      "ts": "2024-11-13T14:19:14.500Z"
+    },
+    {
+      "temperature": 30.6,
+      "humidity": 54,
+      "ts": "2024-11-13T14:19:15.000Z"
+    },
+    {
+      "temperature": 30.7,
+      "humidity": 54,
+      "ts": "2024-11-13T14:19:15.500Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 59,
+      "ts": "2024-11-13T14:19:16.000Z"
+    },
+    {
+      "temperature": 29.2,
+      "humidity": 54,
+      "ts": "2024-11-13T14:19:16.500Z"
+    },
+    {
+      "temperature": 32.6,
+      "humidity": 42,
+      "ts": "2024-11-13T14:19:17.000Z"
+    },
+    {
+      "temperature": 32.6,
+      "humidity": 51,
+      "ts": "2024-11-13T14:19:17.500Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 56,
+      "ts": "2024-11-13T14:19:18.000Z"
+    },
+    {
+      "temperature": 31.4,
+      "humidity": 54,
+      "ts": "2024-11-13T14:19:18.500Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 58,
+      "ts": "2024-11-13T14:19:19.000Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 43,
+      "ts": "2024-11-13T14:19:19.500Z"
+    },
+    {
+      "temperature": 33.7,
+      "humidity": 45,
+      "ts": "2024-11-13T14:19:20.000Z"
+    },
+    {
+      "temperature": 29.8,
+      "humidity": 43,
+      "ts": "2024-11-13T14:19:20.500Z"
+    },
+    {
+      "temperature": 29.4,
+      "humidity": 43,
+      "ts": "2024-11-13T14:19:21.000Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 47,
+      "ts": "2024-11-13T14:19:21.500Z"
+    },
+    {
+      "temperature": 28.3,
+      "humidity": 49,
+      "ts": "2024-11-13T14:19:22.000Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 57,
+      "ts": "2024-11-13T14:19:22.500Z"
+    },
+    {
+      "temperature": 37.3,
+      "humidity": 55,
+      "ts": "2024-11-13T14:19:23.000Z"
+    },
+    {
+      "temperature": 30.4,
+      "humidity": 54,
+      "ts": "2024-11-13T14:19:23.500Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 43,
+      "ts": "2024-11-13T14:19:24.000Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 53,
+      "ts": "2024-11-13T14:19:24.500Z"
+    },
+    {
+      "temperature": 30.3,
+      "humidity": 40,
+      "ts": "2024-11-13T14:19:25.000Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 45,
+      "ts": "2024-11-13T14:19:25.500Z"
+    },
+    {
+      "temperature": 34.4,
+      "humidity": 55,
+      "ts": "2024-11-13T14:19:26.000Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 51,
+      "ts": "2024-11-13T14:19:26.500Z"
+    },
+    {
+      "temperature": 29.8,
+      "humidity": 51,
+      "ts": "2024-11-13T14:19:27.000Z"
+    },
+    {
+      "temperature": 29.2,
+      "humidity": 55,
+      "ts": "2024-11-13T14:19:27.500Z"
+    },
+    {
+      "temperature": 36.9,
+      "humidity": 57,
+      "ts": "2024-11-13T14:19:28.000Z"
+    },
+    {
+      "temperature": 34.3,
+      "humidity": 45,
+      "ts": "2024-11-13T14:19:28.500Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 52,
+      "ts": "2024-11-13T14:19:29.000Z"
+    },
+    {
+      "temperature": 37.4,
+      "humidity": 58,
+      "ts": "2024-11-13T14:19:29.500Z"
+    },
+    {
+      "temperature": 37.8,
+      "humidity": 50,
+      "ts": "2024-11-13T14:19:30.000Z"
+    },
+    {
+      "temperature": 29.3,
+      "humidity": 51,
+      "ts": "2024-11-13T14:19:30.500Z"
+    },
+    {
+      "temperature": 37.3,
+      "humidity": 47,
+      "ts": "2024-11-13T14:19:31.000Z"
+    },
+    {
+      "temperature": 33.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:19:31.500Z"
+    },
+    {
+      "temperature": 31.8,
+      "humidity": 57,
+      "ts": "2024-11-13T14:19:32.000Z"
+    },
+    {
+      "temperature": 37.3,
+      "humidity": 44,
+      "ts": "2024-11-13T14:19:32.500Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 51,
+      "ts": "2024-11-13T14:19:33.000Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 52,
+      "ts": "2024-11-13T14:19:33.500Z"
+    },
+    {
+      "temperature": 36,
+      "humidity": 59,
+      "ts": "2024-11-13T14:19:34.000Z"
+    },
+    {
+      "temperature": 28.8,
+      "humidity": 53,
+      "ts": "2024-11-13T14:19:34.500Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 51,
+      "ts": "2024-11-13T14:19:35.000Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:19:35.500Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 46,
+      "ts": "2024-11-13T14:19:36.000Z"
+    },
+    {
+      "temperature": 32.5,
+      "humidity": 43,
+      "ts": "2024-11-13T14:19:36.500Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 58,
+      "ts": "2024-11-13T14:19:37.000Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 52,
+      "ts": "2024-11-13T14:19:37.500Z"
+    },
+    {
+      "temperature": 32,
+      "humidity": 41,
+      "ts": "2024-11-13T14:19:38.000Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 53,
+      "ts": "2024-11-13T14:19:38.500Z"
+    },
+    {
+      "temperature": 28.3,
+      "humidity": 48,
+      "ts": "2024-11-13T14:19:39.000Z"
+    },
+    {
+      "temperature": 30.7,
+      "humidity": 59,
+      "ts": "2024-11-13T14:19:39.500Z"
+    },
+    {
+      "temperature": 34.5,
+      "humidity": 56,
+      "ts": "2024-11-13T14:19:40.000Z"
+    },
+    {
+      "temperature": 32,
+      "humidity": 50,
+      "ts": "2024-11-13T14:19:40.500Z"
+    },
+    {
+      "temperature": 32.7,
+      "humidity": 46,
+      "ts": "2024-11-13T14:19:41.000Z"
+    },
+    {
+      "temperature": 31.8,
+      "humidity": 42,
+      "ts": "2024-11-13T14:19:41.500Z"
+    },
+    {
+      "temperature": 33.7,
+      "humidity": 57,
+      "ts": "2024-11-13T14:19:42.000Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 44,
+      "ts": "2024-11-13T14:19:42.500Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 40,
+      "ts": "2024-11-13T14:19:43.000Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 55,
+      "ts": "2024-11-13T14:19:43.500Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 40,
+      "ts": "2024-11-13T14:19:44.000Z"
+    },
+    {
+      "temperature": 35.2,
+      "humidity": 45,
+      "ts": "2024-11-13T14:19:44.500Z"
+    },
+    {
+      "temperature": 34.9,
+      "humidity": 40,
+      "ts": "2024-11-13T14:19:45.000Z"
+    },
+    {
+      "temperature": 35.5,
+      "humidity": 42,
+      "ts": "2024-11-13T14:19:45.500Z"
+    },
+    {
+      "temperature": 36.6,
+      "humidity": 49,
+      "ts": "2024-11-13T14:19:46.000Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 41,
+      "ts": "2024-11-13T14:19:46.500Z"
+    },
+    {
+      "temperature": 35.3,
+      "humidity": 44,
+      "ts": "2024-11-13T14:19:47.000Z"
+    },
+    {
+      "temperature": 34.1,
+      "humidity": 47,
+      "ts": "2024-11-13T14:19:47.500Z"
+    },
+    {
+      "temperature": 30.5,
+      "humidity": 59,
+      "ts": "2024-11-13T14:19:48.000Z"
+    },
+    {
+      "temperature": 35.9,
+      "humidity": 56,
+      "ts": "2024-11-13T14:19:48.500Z"
+    },
+    {
+      "temperature": 34.3,
+      "humidity": 42,
+      "ts": "2024-11-13T14:19:49.000Z"
+    },
+    {
+      "temperature": 32.4,
+      "humidity": 56,
+      "ts": "2024-11-13T14:19:49.500Z"
+    },
+    {
+      "temperature": 30.7,
+      "humidity": 44,
+      "ts": "2024-11-13T14:19:50.000Z"
+    },
+    {
+      "temperature": 36,
+      "humidity": 58,
+      "ts": "2024-11-13T14:19:50.500Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 44,
+      "ts": "2024-11-13T14:19:51.000Z"
+    },
+    {
+      "temperature": 33.5,
+      "humidity": 54,
+      "ts": "2024-11-13T14:19:51.500Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 57,
+      "ts": "2024-11-13T14:19:52.000Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 41,
+      "ts": "2024-11-13T14:19:52.500Z"
+    },
+    {
+      "temperature": 29.2,
+      "humidity": 50,
+      "ts": "2024-11-13T14:19:53.000Z"
+    },
+    {
+      "temperature": 32.6,
+      "humidity": 52,
+      "ts": "2024-11-13T14:19:53.500Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 47,
+      "ts": "2024-11-13T14:19:54.000Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 54,
+      "ts": "2024-11-13T14:19:54.500Z"
+    },
+    {
+      "temperature": 37.4,
+      "humidity": 51,
+      "ts": "2024-11-13T14:19:55.000Z"
+    },
+    {
+      "temperature": 35.9,
+      "humidity": 52,
+      "ts": "2024-11-13T14:19:55.500Z"
+    },
+    {
+      "temperature": 34.1,
+      "humidity": 49,
+      "ts": "2024-11-13T14:19:56.000Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 58,
+      "ts": "2024-11-13T14:19:56.500Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 53,
+      "ts": "2024-11-13T14:19:57.000Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 50,
+      "ts": "2024-11-13T14:19:57.500Z"
+    },
+    {
+      "temperature": 38,
+      "humidity": 41,
+      "ts": "2024-11-13T14:19:58.000Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 47,
+      "ts": "2024-11-13T14:19:58.500Z"
+    },
+    {
+      "temperature": 32.7,
+      "humidity": 51,
+      "ts": "2024-11-13T14:19:59.000Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 48,
+      "ts": "2024-11-13T14:19:59.500Z"
+    },
+    {
+      "temperature": 36.3,
+      "humidity": 55,
+      "ts": "2024-11-13T14:20:00.000Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 44,
+      "ts": "2024-11-13T14:20:00.500Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 54,
+      "ts": "2024-11-13T14:20:01.000Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 50,
+      "ts": "2024-11-13T14:20:01.500Z"
+    },
+    {
+      "temperature": 31.3,
+      "humidity": 40,
+      "ts": "2024-11-13T14:20:02.000Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 41,
+      "ts": "2024-11-13T14:20:02.500Z"
+    },
+    {
+      "temperature": 35.4,
+      "humidity": 41,
+      "ts": "2024-11-13T14:20:03.000Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 53,
+      "ts": "2024-11-13T14:20:03.500Z"
+    },
+    {
+      "temperature": 32.3,
+      "humidity": 51,
+      "ts": "2024-11-13T14:20:04.000Z"
+    },
+    {
+      "temperature": 37,
+      "humidity": 54,
+      "ts": "2024-11-13T14:20:04.500Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 48,
+      "ts": "2024-11-13T14:20:05.000Z"
+    },
+    {
+      "temperature": 30,
+      "humidity": 52,
+      "ts": "2024-11-13T14:20:05.500Z"
+    },
+    {
+      "temperature": 28.1,
+      "humidity": 51,
+      "ts": "2024-11-13T14:20:06.000Z"
+    },
+    {
+      "temperature": 36.7,
+      "humidity": 54,
+      "ts": "2024-11-13T14:20:06.500Z"
+    },
+    {
+      "temperature": 31.3,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:07.000Z"
+    },
+    {
+      "temperature": 31.3,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:07.500Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 44,
+      "ts": "2024-11-13T14:20:08.000Z"
+    },
+    {
+      "temperature": 29.8,
+      "humidity": 55,
+      "ts": "2024-11-13T14:20:08.500Z"
+    },
+    {
+      "temperature": 28.8,
+      "humidity": 49,
+      "ts": "2024-11-13T14:20:09.000Z"
+    },
+    {
+      "temperature": 30.4,
+      "humidity": 49,
+      "ts": "2024-11-13T14:20:09.500Z"
+    },
+    {
+      "temperature": 34.9,
+      "humidity": 59,
+      "ts": "2024-11-13T14:20:10.000Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 47,
+      "ts": "2024-11-13T14:20:10.500Z"
+    },
+    {
+      "temperature": 29.6,
+      "humidity": 55,
+      "ts": "2024-11-13T14:20:11.000Z"
+    },
+    {
+      "temperature": 36.4,
+      "humidity": 59,
+      "ts": "2024-11-13T14:20:11.500Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 54,
+      "ts": "2024-11-13T14:20:12.000Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:12.500Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 50,
+      "ts": "2024-11-13T14:20:13.000Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 58,
+      "ts": "2024-11-13T14:20:13.500Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 47,
+      "ts": "2024-11-13T14:20:14.000Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:14.500Z"
+    },
+    {
+      "temperature": 31.4,
+      "humidity": 48,
+      "ts": "2024-11-13T14:20:15.000Z"
+    },
+    {
+      "temperature": 28.6,
+      "humidity": 51,
+      "ts": "2024-11-13T14:20:15.500Z"
+    },
+    {
+      "temperature": 29.3,
+      "humidity": 52,
+      "ts": "2024-11-13T14:20:16.000Z"
+    },
+    {
+      "temperature": 34.3,
+      "humidity": 52,
+      "ts": "2024-11-13T14:20:16.500Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 55,
+      "ts": "2024-11-13T14:20:17.000Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 47,
+      "ts": "2024-11-13T14:20:17.500Z"
+    },
+    {
+      "temperature": 32.4,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:18.000Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 50,
+      "ts": "2024-11-13T14:20:18.500Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 50,
+      "ts": "2024-11-13T14:20:19.000Z"
+    },
+    {
+      "temperature": 32.4,
+      "humidity": 48,
+      "ts": "2024-11-13T14:20:19.500Z"
+    },
+    {
+      "temperature": 34.4,
+      "humidity": 46,
+      "ts": "2024-11-13T14:20:20.000Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 49,
+      "ts": "2024-11-13T14:20:20.500Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 54,
+      "ts": "2024-11-13T14:20:21.000Z"
+    },
+    {
+      "temperature": 28.8,
+      "humidity": 57,
+      "ts": "2024-11-13T14:20:21.500Z"
+    },
+    {
+      "temperature": 33.3,
+      "humidity": 54,
+      "ts": "2024-11-13T14:20:22.000Z"
+    },
+    {
+      "temperature": 30.9,
+      "humidity": 41,
+      "ts": "2024-11-13T14:20:22.500Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 44,
+      "ts": "2024-11-13T14:20:23.000Z"
+    },
+    {
+      "temperature": 32.8,
+      "humidity": 43,
+      "ts": "2024-11-13T14:20:23.500Z"
+    },
+    {
+      "temperature": 28.7,
+      "humidity": 50,
+      "ts": "2024-11-13T14:20:24.000Z"
+    },
+    {
+      "temperature": 35.9,
+      "humidity": 43,
+      "ts": "2024-11-13T14:20:24.500Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 59,
+      "ts": "2024-11-13T14:20:25.000Z"
+    },
+    {
+      "temperature": 28.8,
+      "humidity": 40,
+      "ts": "2024-11-13T14:20:25.500Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 54,
+      "ts": "2024-11-13T14:20:26.000Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 49,
+      "ts": "2024-11-13T14:20:26.500Z"
+    },
+    {
+      "temperature": 32.9,
+      "humidity": 51,
+      "ts": "2024-11-13T14:20:27.000Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 55,
+      "ts": "2024-11-13T14:20:27.500Z"
+    },
+    {
+      "temperature": 37.4,
+      "humidity": 53,
+      "ts": "2024-11-13T14:20:28.000Z"
+    },
+    {
+      "temperature": 32.3,
+      "humidity": 43,
+      "ts": "2024-11-13T14:20:28.500Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 47,
+      "ts": "2024-11-13T14:20:29.000Z"
+    },
+    {
+      "temperature": 34.5,
+      "humidity": 56,
+      "ts": "2024-11-13T14:20:29.500Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 40,
+      "ts": "2024-11-13T14:20:30.000Z"
+    },
+    {
+      "temperature": 35.5,
+      "humidity": 44,
+      "ts": "2024-11-13T14:20:30.500Z"
+    },
+    {
+      "temperature": 28.1,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:31.000Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 48,
+      "ts": "2024-11-13T14:20:31.500Z"
+    },
+    {
+      "temperature": 28.4,
+      "humidity": 53,
+      "ts": "2024-11-13T14:20:32.000Z"
+    },
+    {
+      "temperature": 31.9,
+      "humidity": 56,
+      "ts": "2024-11-13T14:20:32.500Z"
+    },
+    {
+      "temperature": 34.4,
+      "humidity": 48,
+      "ts": "2024-11-13T14:20:33.000Z"
+    },
+    {
+      "temperature": 28.3,
+      "humidity": 45,
+      "ts": "2024-11-13T14:20:33.500Z"
+    },
+    {
+      "temperature": 33.7,
+      "humidity": 59,
+      "ts": "2024-11-13T14:20:34.000Z"
+    },
+    {
+      "temperature": 36.4,
+      "humidity": 53,
+      "ts": "2024-11-13T14:20:34.500Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 59,
+      "ts": "2024-11-13T14:20:35.000Z"
+    },
+    {
+      "temperature": 36.7,
+      "humidity": 54,
+      "ts": "2024-11-13T14:20:35.500Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:36.000Z"
+    },
+    {
+      "temperature": 31.9,
+      "humidity": 49,
+      "ts": "2024-11-13T14:20:36.500Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 50,
+      "ts": "2024-11-13T14:20:37.000Z"
+    },
+    {
+      "temperature": 37.1,
+      "humidity": 56,
+      "ts": "2024-11-13T14:20:37.500Z"
+    },
+    {
+      "temperature": 30.6,
+      "humidity": 40,
+      "ts": "2024-11-13T14:20:38.000Z"
+    },
+    {
+      "temperature": 29.4,
+      "humidity": 40,
+      "ts": "2024-11-13T14:20:38.500Z"
+    },
+    {
+      "temperature": 28.3,
+      "humidity": 45,
+      "ts": "2024-11-13T14:20:39.000Z"
+    },
+    {
+      "temperature": 28.6,
+      "humidity": 53,
+      "ts": "2024-11-13T14:20:39.500Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 43,
+      "ts": "2024-11-13T14:20:40.000Z"
+    },
+    {
+      "temperature": 36.1,
+      "humidity": 48,
+      "ts": "2024-11-13T14:20:40.500Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 54,
+      "ts": "2024-11-13T14:20:41.000Z"
+    },
+    {
+      "temperature": 28.6,
+      "humidity": 45,
+      "ts": "2024-11-13T14:20:41.500Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 47,
+      "ts": "2024-11-13T14:20:42.000Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 52,
+      "ts": "2024-11-13T14:20:42.500Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 53,
+      "ts": "2024-11-13T14:20:43.000Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 44,
+      "ts": "2024-11-13T14:20:43.500Z"
+    },
+    {
+      "temperature": 28.2,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:44.000Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 43,
+      "ts": "2024-11-13T14:20:44.500Z"
+    },
+    {
+      "temperature": 35.4,
+      "humidity": 44,
+      "ts": "2024-11-13T14:20:45.000Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 59,
+      "ts": "2024-11-13T14:20:45.500Z"
+    },
+    {
+      "temperature": 30.3,
+      "humidity": 41,
+      "ts": "2024-11-13T14:20:46.000Z"
+    },
+    {
+      "temperature": 29.3,
+      "humidity": 51,
+      "ts": "2024-11-13T14:20:46.500Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 59,
+      "ts": "2024-11-13T14:20:47.000Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 47,
+      "ts": "2024-11-13T14:20:47.500Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 41,
+      "ts": "2024-11-13T14:20:48.000Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 40,
+      "ts": "2024-11-13T14:20:48.500Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 44,
+      "ts": "2024-11-13T14:20:49.000Z"
+    },
+    {
+      "temperature": 33.3,
+      "humidity": 52,
+      "ts": "2024-11-13T14:20:49.500Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 47,
+      "ts": "2024-11-13T14:20:50.000Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 43,
+      "ts": "2024-11-13T14:20:50.500Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 59,
+      "ts": "2024-11-13T14:20:51.000Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 56,
+      "ts": "2024-11-13T14:20:51.500Z"
+    },
+    {
+      "temperature": 28.7,
+      "humidity": 53,
+      "ts": "2024-11-13T14:20:52.000Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 44,
+      "ts": "2024-11-13T14:20:52.500Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 43,
+      "ts": "2024-11-13T14:20:53.000Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:53.500Z"
+    },
+    {
+      "temperature": 34.9,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:54.000Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 54,
+      "ts": "2024-11-13T14:20:54.500Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:55.000Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 49,
+      "ts": "2024-11-13T14:20:55.500Z"
+    },
+    {
+      "temperature": 29.2,
+      "humidity": 47,
+      "ts": "2024-11-13T14:20:56.000Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 50,
+      "ts": "2024-11-13T14:20:56.500Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 42,
+      "ts": "2024-11-13T14:20:57.000Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 54,
+      "ts": "2024-11-13T14:20:57.500Z"
+    },
+    {
+      "temperature": 29.6,
+      "humidity": 45,
+      "ts": "2024-11-13T14:20:58.000Z"
+    },
+    {
+      "temperature": 35.5,
+      "humidity": 52,
+      "ts": "2024-11-13T14:20:58.500Z"
+    },
+    {
+      "temperature": 28.7,
+      "humidity": 58,
+      "ts": "2024-11-13T14:20:59.000Z"
+    },
+    {
+      "temperature": 36,
+      "humidity": 52,
+      "ts": "2024-11-13T14:20:59.500Z"
+    },
+    {
+      "temperature": 29.2,
+      "humidity": 53,
+      "ts": "2024-11-13T14:21:00.000Z"
+    },
+    {
+      "temperature": 28.7,
+      "humidity": 46,
+      "ts": "2024-11-13T14:21:00.500Z"
+    },
+    {
+      "temperature": 37.5,
+      "humidity": 41,
+      "ts": "2024-11-13T14:21:01.000Z"
+    },
+    {
+      "temperature": 28.1,
+      "humidity": 51,
+      "ts": "2024-11-13T14:21:01.500Z"
+    },
+    {
+      "temperature": 32.9,
+      "humidity": 59,
+      "ts": "2024-11-13T14:21:02.000Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 42,
+      "ts": "2024-11-13T14:21:02.500Z"
+    },
+    {
+      "temperature": 32.3,
+      "humidity": 53,
+      "ts": "2024-11-13T14:21:03.000Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 40,
+      "ts": "2024-11-13T14:21:03.500Z"
+    },
+    {
+      "temperature": 36.7,
+      "humidity": 58,
+      "ts": "2024-11-13T14:21:04.000Z"
+    },
+    {
+      "temperature": 28.7,
+      "humidity": 53,
+      "ts": "2024-11-13T14:21:04.500Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:05.000Z"
+    },
+    {
+      "temperature": 32.5,
+      "humidity": 51,
+      "ts": "2024-11-13T14:21:05.500Z"
+    },
+    {
+      "temperature": 30.3,
+      "humidity": 44,
+      "ts": "2024-11-13T14:21:06.000Z"
+    },
+    {
+      "temperature": 37,
+      "humidity": 52,
+      "ts": "2024-11-13T14:21:06.500Z"
+    },
+    {
+      "temperature": 28,
+      "humidity": 56,
+      "ts": "2024-11-13T14:21:07.000Z"
+    },
+    {
+      "temperature": 36,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:07.500Z"
+    },
+    {
+      "temperature": 32.7,
+      "humidity": 45,
+      "ts": "2024-11-13T14:21:08.000Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 45,
+      "ts": "2024-11-13T14:21:08.500Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 46,
+      "ts": "2024-11-13T14:21:09.000Z"
+    },
+    {
+      "temperature": 32.1,
+      "humidity": 40,
+      "ts": "2024-11-13T14:21:09.500Z"
+    },
+    {
+      "temperature": 37.3,
+      "humidity": 50,
+      "ts": "2024-11-13T14:21:10.000Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:10.500Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 50,
+      "ts": "2024-11-13T14:21:11.000Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 49,
+      "ts": "2024-11-13T14:21:11.500Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 51,
+      "ts": "2024-11-13T14:21:12.000Z"
+    },
+    {
+      "temperature": 32.9,
+      "humidity": 46,
+      "ts": "2024-11-13T14:21:12.500Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:13.000Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:13.500Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 49,
+      "ts": "2024-11-13T14:21:14.000Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 41,
+      "ts": "2024-11-13T14:21:14.500Z"
+    },
+    {
+      "temperature": 33.2,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:15.000Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 40,
+      "ts": "2024-11-13T14:21:15.500Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 55,
+      "ts": "2024-11-13T14:21:16.000Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 46,
+      "ts": "2024-11-13T14:21:16.500Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 40,
+      "ts": "2024-11-13T14:21:17.000Z"
+    },
+    {
+      "temperature": 37.4,
+      "humidity": 45,
+      "ts": "2024-11-13T14:21:17.500Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 41,
+      "ts": "2024-11-13T14:21:18.000Z"
+    },
+    {
+      "temperature": 28.4,
+      "humidity": 56,
+      "ts": "2024-11-13T14:21:18.500Z"
+    },
+    {
+      "temperature": 37.9,
+      "humidity": 41,
+      "ts": "2024-11-13T14:21:19.000Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 49,
+      "ts": "2024-11-13T14:21:19.500Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:21:20.000Z"
+    },
+    {
+      "temperature": 33.8,
+      "humidity": 56,
+      "ts": "2024-11-13T14:21:20.500Z"
+    },
+    {
+      "temperature": 31.5,
+      "humidity": 55,
+      "ts": "2024-11-13T14:21:21.000Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 52,
+      "ts": "2024-11-13T14:21:21.500Z"
+    },
+    {
+      "temperature": 32.5,
+      "humidity": 40,
+      "ts": "2024-11-13T14:21:22.000Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 41,
+      "ts": "2024-11-13T14:21:22.500Z"
+    },
+    {
+      "temperature": 30.3,
+      "humidity": 57,
+      "ts": "2024-11-13T14:21:23.000Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 48,
+      "ts": "2024-11-13T14:21:23.500Z"
+    },
+    {
+      "temperature": 34.3,
+      "humidity": 52,
+      "ts": "2024-11-13T14:21:24.000Z"
+    },
+    {
+      "temperature": 34.7,
+      "humidity": 44,
+      "ts": "2024-11-13T14:21:24.500Z"
+    },
+    {
+      "temperature": 35.2,
+      "humidity": 47,
+      "ts": "2024-11-13T14:21:25.000Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 49,
+      "ts": "2024-11-13T14:21:25.500Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 44,
+      "ts": "2024-11-13T14:21:26.000Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 44,
+      "ts": "2024-11-13T14:21:26.500Z"
+    },
+    {
+      "temperature": 30.1,
+      "humidity": 40,
+      "ts": "2024-11-13T14:21:27.000Z"
+    },
+    {
+      "temperature": 28.8,
+      "humidity": 56,
+      "ts": "2024-11-13T14:21:27.500Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 44,
+      "ts": "2024-11-13T14:21:28.000Z"
+    },
+    {
+      "temperature": 37.5,
+      "humidity": 42,
+      "ts": "2024-11-13T14:21:28.500Z"
+    },
+    {
+      "temperature": 32.1,
+      "humidity": 49,
+      "ts": "2024-11-13T14:21:29.000Z"
+    },
+    {
+      "temperature": 31.5,
+      "humidity": 40,
+      "ts": "2024-11-13T14:21:29.500Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 42,
+      "ts": "2024-11-13T14:21:30.000Z"
+    },
+    {
+      "temperature": 35.9,
+      "humidity": 45,
+      "ts": "2024-11-13T14:21:30.500Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 51,
+      "ts": "2024-11-13T14:21:31.000Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 44,
+      "ts": "2024-11-13T14:21:31.500Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 44,
+      "ts": "2024-11-13T14:21:32.000Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 42,
+      "ts": "2024-11-13T14:21:32.500Z"
+    },
+    {
+      "temperature": 30.9,
+      "humidity": 50,
+      "ts": "2024-11-13T14:21:33.000Z"
+    },
+    {
+      "temperature": 32.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:21:33.500Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 57,
+      "ts": "2024-11-13T14:21:34.000Z"
+    },
+    {
+      "temperature": 37.9,
+      "humidity": 53,
+      "ts": "2024-11-13T14:21:34.500Z"
+    },
+    {
+      "temperature": 32,
+      "humidity": 49,
+      "ts": "2024-11-13T14:21:35.000Z"
+    },
+    {
+      "temperature": 33.3,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:35.500Z"
+    },
+    {
+      "temperature": 30.5,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:36.000Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 54,
+      "ts": "2024-11-13T14:21:36.500Z"
+    },
+    {
+      "temperature": 36.7,
+      "humidity": 53,
+      "ts": "2024-11-13T14:21:37.000Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 54,
+      "ts": "2024-11-13T14:21:37.500Z"
+    },
+    {
+      "temperature": 32.7,
+      "humidity": 57,
+      "ts": "2024-11-13T14:21:38.000Z"
+    },
+    {
+      "temperature": 28,
+      "humidity": 54,
+      "ts": "2024-11-13T14:21:38.500Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:21:39.000Z"
+    },
+    {
+      "temperature": 34.4,
+      "humidity": 49,
+      "ts": "2024-11-13T14:21:39.500Z"
+    },
+    {
+      "temperature": 34.4,
+      "humidity": 59,
+      "ts": "2024-11-13T14:21:40.000Z"
+    },
+    {
+      "temperature": 37.5,
+      "humidity": 50,
+      "ts": "2024-11-13T14:21:40.500Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 42,
+      "ts": "2024-11-13T14:21:41.000Z"
+    },
+    {
+      "temperature": 31.4,
+      "humidity": 48,
+      "ts": "2024-11-13T14:21:41.500Z"
+    },
+    {
+      "temperature": 35.4,
+      "humidity": 54,
+      "ts": "2024-11-13T14:21:42.000Z"
+    },
+    {
+      "temperature": 33.3,
+      "humidity": 42,
+      "ts": "2024-11-13T14:21:42.500Z"
+    },
+    {
+      "temperature": 30.5,
+      "humidity": 53,
+      "ts": "2024-11-13T14:21:43.000Z"
+    },
+    {
+      "temperature": 30.1,
+      "humidity": 45,
+      "ts": "2024-11-13T14:21:43.500Z"
+    },
+    {
+      "temperature": 34.6,
+      "humidity": 46,
+      "ts": "2024-11-13T14:21:44.000Z"
+    },
+    {
+      "temperature": 31.5,
+      "humidity": 53,
+      "ts": "2024-11-13T14:21:44.500Z"
+    },
+    {
+      "temperature": 34.4,
+      "humidity": 58,
+      "ts": "2024-11-13T14:21:45.000Z"
+    },
+    {
+      "temperature": 30.4,
+      "humidity": 46,
+      "ts": "2024-11-13T14:21:45.500Z"
+    },
+    {
+      "temperature": 38,
+      "humidity": 51,
+      "ts": "2024-11-13T14:21:46.000Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 53,
+      "ts": "2024-11-13T14:21:46.500Z"
+    },
+    {
+      "temperature": 35.5,
+      "humidity": 57,
+      "ts": "2024-11-13T14:21:47.000Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 52,
+      "ts": "2024-11-13T14:21:47.500Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 46,
+      "ts": "2024-11-13T14:21:48.000Z"
+    },
+    {
+      "temperature": 31.9,
+      "humidity": 46,
+      "ts": "2024-11-13T14:21:48.500Z"
+    },
+    {
+      "temperature": 29.3,
+      "humidity": 52,
+      "ts": "2024-11-13T14:21:49.000Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 40,
+      "ts": "2024-11-13T14:21:49.500Z"
+    },
+    {
+      "temperature": 36.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:21:50.000Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 55,
+      "ts": "2024-11-13T14:21:50.500Z"
+    },
+    {
+      "temperature": 36.3,
+      "humidity": 44,
+      "ts": "2024-11-13T14:21:51.000Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 51,
+      "ts": "2024-11-13T14:21:51.500Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:52.000Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 41,
+      "ts": "2024-11-13T14:21:52.500Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:53.000Z"
+    },
+    {
+      "temperature": 34.9,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:53.500Z"
+    },
+    {
+      "temperature": 28.8,
+      "humidity": 55,
+      "ts": "2024-11-13T14:21:54.000Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 45,
+      "ts": "2024-11-13T14:21:54.500Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 43,
+      "ts": "2024-11-13T14:21:55.000Z"
+    },
+    {
+      "temperature": 37.3,
+      "humidity": 59,
+      "ts": "2024-11-13T14:21:55.500Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:21:56.000Z"
+    },
+    {
+      "temperature": 34.6,
+      "humidity": 51,
+      "ts": "2024-11-13T14:21:56.500Z"
+    },
+    {
+      "temperature": 33.2,
+      "humidity": 44,
+      "ts": "2024-11-13T14:21:57.000Z"
+    },
+    {
+      "temperature": 30.5,
+      "humidity": 56,
+      "ts": "2024-11-13T14:21:57.500Z"
+    },
+    {
+      "temperature": 29.8,
+      "humidity": 56,
+      "ts": "2024-11-13T14:21:58.000Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 58,
+      "ts": "2024-11-13T14:21:58.500Z"
+    },
+    {
+      "temperature": 29.2,
+      "humidity": 51,
+      "ts": "2024-11-13T14:21:59.000Z"
+    },
+    {
+      "temperature": 28.9,
+      "humidity": 55,
+      "ts": "2024-11-13T14:21:59.500Z"
+    },
+    {
+      "temperature": 37.3,
+      "humidity": 51,
+      "ts": "2024-11-13T14:22:00.000Z"
+    },
+    {
+      "temperature": 29.8,
+      "humidity": 48,
+      "ts": "2024-11-13T14:22:00.500Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 49,
+      "ts": "2024-11-13T14:22:01.000Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 44,
+      "ts": "2024-11-13T14:22:01.500Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 58,
+      "ts": "2024-11-13T14:22:02.000Z"
+    },
+    {
+      "temperature": 37.4,
+      "humidity": 40,
+      "ts": "2024-11-13T14:22:02.500Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 41,
+      "ts": "2024-11-13T14:22:03.000Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 43,
+      "ts": "2024-11-13T14:22:03.500Z"
+    },
+    {
+      "temperature": 30.7,
+      "humidity": 59,
+      "ts": "2024-11-13T14:22:04.000Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 56,
+      "ts": "2024-11-13T14:22:04.500Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 59,
+      "ts": "2024-11-13T14:22:05.000Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 53,
+      "ts": "2024-11-13T14:22:05.500Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 52,
+      "ts": "2024-11-13T14:22:06.000Z"
+    },
+    {
+      "temperature": 37.9,
+      "humidity": 47,
+      "ts": "2024-11-13T14:22:06.500Z"
+    },
+    {
+      "temperature": 33.2,
+      "humidity": 54,
+      "ts": "2024-11-13T14:22:07.000Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 41,
+      "ts": "2024-11-13T14:22:07.500Z"
+    },
+    {
+      "temperature": 34,
+      "humidity": 41,
+      "ts": "2024-11-13T14:22:08.000Z"
+    },
+    {
+      "temperature": 30.4,
+      "humidity": 43,
+      "ts": "2024-11-13T14:22:08.500Z"
+    },
+    {
+      "temperature": 32.6,
+      "humidity": 53,
+      "ts": "2024-11-13T14:22:09.000Z"
+    },
+    {
+      "temperature": 38,
+      "humidity": 45,
+      "ts": "2024-11-13T14:22:09.500Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 55,
+      "ts": "2024-11-13T14:22:10.000Z"
+    },
+    {
+      "temperature": 31.7,
+      "humidity": 41,
+      "ts": "2024-11-13T14:22:10.500Z"
+    },
+    {
+      "temperature": 37.8,
+      "humidity": 45,
+      "ts": "2024-11-13T14:22:11.000Z"
+    },
+    {
+      "temperature": 30.9,
+      "humidity": 52,
+      "ts": "2024-11-13T14:22:11.500Z"
+    },
+    {
+      "temperature": 30.7,
+      "humidity": 50,
+      "ts": "2024-11-13T14:22:12.000Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 46,
+      "ts": "2024-11-13T14:22:12.500Z"
+    },
+    {
+      "temperature": 31.8,
+      "humidity": 41,
+      "ts": "2024-11-13T14:22:13.000Z"
+    },
+    {
+      "temperature": 28.4,
+      "humidity": 42,
+      "ts": "2024-11-13T14:22:13.500Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 58,
+      "ts": "2024-11-13T14:22:14.000Z"
+    },
+    {
+      "temperature": 28.6,
+      "humidity": 49,
+      "ts": "2024-11-13T14:22:14.500Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 56,
+      "ts": "2024-11-13T14:22:15.000Z"
+    },
+    {
+      "temperature": 34.5,
+      "humidity": 54,
+      "ts": "2024-11-13T14:22:15.500Z"
+    },
+    {
+      "temperature": 28.7,
+      "humidity": 55,
+      "ts": "2024-11-13T14:22:16.000Z"
+    },
+    {
+      "temperature": 34.5,
+      "humidity": 55,
+      "ts": "2024-11-13T14:22:16.500Z"
+    },
+    {
+      "temperature": 29.2,
+      "humidity": 47,
+      "ts": "2024-11-13T14:22:17.000Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 41,
+      "ts": "2024-11-13T14:22:17.500Z"
+    },
+    {
+      "temperature": 36.6,
+      "humidity": 44,
+      "ts": "2024-11-13T14:22:18.000Z"
+    },
+    {
+      "temperature": 33.7,
+      "humidity": 54,
+      "ts": "2024-11-13T14:22:18.500Z"
+    },
+    {
+      "temperature": 34.1,
+      "humidity": 45,
+      "ts": "2024-11-13T14:22:19.000Z"
+    },
+    {
+      "temperature": 30.4,
+      "humidity": 48,
+      "ts": "2024-11-13T14:22:19.500Z"
+    },
+    {
+      "temperature": 32.7,
+      "humidity": 58,
+      "ts": "2024-11-13T14:22:20.000Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:22:20.500Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 49,
+      "ts": "2024-11-13T14:22:21.000Z"
+    },
+    {
+      "temperature": 37.3,
+      "humidity": 49,
+      "ts": "2024-11-13T14:22:21.500Z"
+    },
+    {
+      "temperature": 31.9,
+      "humidity": 56,
+      "ts": "2024-11-13T14:22:22.000Z"
+    },
+    {
+      "temperature": 31.7,
+      "humidity": 41,
+      "ts": "2024-11-13T14:22:22.500Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 44,
+      "ts": "2024-11-13T14:22:23.000Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 54,
+      "ts": "2024-11-13T14:22:23.500Z"
+    },
+    {
+      "temperature": 37.9,
+      "humidity": 51,
+      "ts": "2024-11-13T14:22:24.000Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 41,
+      "ts": "2024-11-13T14:22:24.500Z"
+    },
+    {
+      "temperature": 35.7,
+      "humidity": 40,
+      "ts": "2024-11-13T14:22:25.000Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 51,
+      "ts": "2024-11-13T14:22:25.500Z"
+    },
+    {
+      "temperature": 37,
+      "humidity": 58,
+      "ts": "2024-11-13T14:22:26.000Z"
+    },
+    {
+      "temperature": 32.1,
+      "humidity": 53,
+      "ts": "2024-11-13T14:22:26.500Z"
+    },
+    {
+      "temperature": 37.5,
+      "humidity": 48,
+      "ts": "2024-11-13T14:22:27.000Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 40,
+      "ts": "2024-11-13T14:22:27.500Z"
+    },
+    {
+      "temperature": 34.3,
+      "humidity": 40,
+      "ts": "2024-11-13T14:22:28.000Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 52,
+      "ts": "2024-11-13T14:22:28.500Z"
+    },
+    {
+      "temperature": 29.8,
+      "humidity": 42,
+      "ts": "2024-11-13T14:22:29.000Z"
+    },
+    {
+      "temperature": 31,
+      "humidity": 52,
+      "ts": "2024-11-13T14:22:29.500Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 57,
+      "ts": "2024-11-13T14:22:30.000Z"
+    },
+    {
+      "temperature": 35.2,
+      "humidity": 45,
+      "ts": "2024-11-13T14:22:30.500Z"
+    },
+    {
+      "temperature": 31,
+      "humidity": 47,
+      "ts": "2024-11-13T14:22:31.000Z"
+    },
+    {
+      "temperature": 35.3,
+      "humidity": 51,
+      "ts": "2024-11-13T14:22:31.500Z"
+    },
+    {
+      "temperature": 32.7,
+      "humidity": 44,
+      "ts": "2024-11-13T14:22:32.000Z"
+    },
+    {
+      "temperature": 34.5,
+      "humidity": 46,
+      "ts": "2024-11-13T14:22:32.500Z"
+    },
+    {
+      "temperature": 34.4,
+      "humidity": 59,
+      "ts": "2024-11-13T14:22:33.000Z"
+    },
+    {
+      "temperature": 35.6,
+      "humidity": 48,
+      "ts": "2024-11-13T14:22:33.500Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 40,
+      "ts": "2024-11-13T14:22:34.000Z"
+    },
+    {
+      "temperature": 30.1,
+      "humidity": 59,
+      "ts": "2024-11-13T14:22:34.500Z"
+    },
+    {
+      "temperature": 38,
+      "humidity": 54,
+      "ts": "2024-11-13T14:22:35.000Z"
+    },
+    {
+      "temperature": 32.1,
+      "humidity": 40,
+      "ts": "2024-11-13T14:22:35.500Z"
+    },
+    {
+      "temperature": 33.5,
+      "humidity": 42,
+      "ts": "2024-11-13T14:22:36.000Z"
+    },
+    {
+      "temperature": 33.9,
+      "humidity": 57,
+      "ts": "2024-11-13T14:22:36.500Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 42,
+      "ts": "2024-11-13T14:22:37.000Z"
+    },
+    {
+      "temperature": 30.6,
+      "humidity": 55,
+      "ts": "2024-11-13T14:22:37.500Z"
+    },
+    {
+      "temperature": 37.6,
+      "humidity": 45,
+      "ts": "2024-11-13T14:22:38.000Z"
+    },
+    {
+      "temperature": 29.7,
+      "humidity": 50,
+      "ts": "2024-11-13T14:22:38.500Z"
+    },
+    {
+      "temperature": 36.9,
+      "humidity": 40,
+      "ts": "2024-11-13T14:22:39.000Z"
+    },
+    {
+      "temperature": 33.1,
+      "humidity": 59,
+      "ts": "2024-11-13T14:22:39.500Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 58,
+      "ts": "2024-11-13T14:22:40.000Z"
+    },
+    {
+      "temperature": 29.6,
+      "humidity": 58,
+      "ts": "2024-11-13T14:22:40.500Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 57,
+      "ts": "2024-11-13T14:22:41.000Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 53,
+      "ts": "2024-11-13T14:22:41.500Z"
+    },
+    {
+      "temperature": 28.5,
+      "humidity": 50,
+      "ts": "2024-11-13T14:22:42.000Z"
+    },
+    {
+      "temperature": 35.9,
+      "humidity": 58,
+      "ts": "2024-11-13T14:22:42.500Z"
+    },
+    {
+      "temperature": 31.2,
+      "humidity": 51,
+      "ts": "2024-11-13T14:22:43.000Z"
+    },
+    {
+      "temperature": 29.3,
+      "humidity": 58,
+      "ts": "2024-11-13T14:22:43.500Z"
+    },
+    {
+      "temperature": 35,
+      "humidity": 53,
+      "ts": "2024-11-13T14:22:44.000Z"
+    },
+    {
+      "temperature": 29,
+      "humidity": 46,
+      "ts": "2024-11-13T14:22:44.500Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 40,
+      "ts": "2024-11-13T14:22:45.000Z"
+    },
+    {
+      "temperature": 30.4,
+      "humidity": 46,
+      "ts": "2024-11-13T14:22:45.500Z"
+    },
+    {
+      "temperature": 37.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:22:46.000Z"
+    },
+    {
+      "temperature": 36.6,
+      "humidity": 40,
+      "ts": "2024-11-13T14:22:46.500Z"
+    },
+    {
+      "temperature": 35.1,
+      "humidity": 47,
+      "ts": "2024-11-13T14:22:47.000Z"
+    },
+    {
+      "temperature": 30.8,
+      "humidity": 43,
+      "ts": "2024-11-13T14:22:47.500Z"
+    },
+    {
+      "temperature": 33,
+      "humidity": 50,
+      "ts": "2024-11-13T14:22:48.000Z"
+    },
+    {
+      "temperature": 36.5,
+      "humidity": 58,
+      "ts": "2024-11-13T14:22:48.500Z"
+    },
+    {
+      "temperature": 32.6,
+      "humidity": 42,
+      "ts": "2024-11-13T14:22:49.000Z"
+    },
+    {
+      "temperature": 31,
+      "humidity": 51,
+      "ts": "2024-11-13T14:22:49.500Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 55,
+      "ts": "2024-11-13T14:22:50.000Z"
+    },
+    {
+      "temperature": 32.8,
+      "humidity": 52,
+      "ts": "2024-11-13T14:22:50.500Z"
+    },
+    {
+      "temperature": 29.5,
+      "humidity": 48,
+      "ts": "2024-11-13T14:22:51.000Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 40,
+      "ts": "2024-11-13T14:22:51.500Z"
+    },
+    {
+      "temperature": 31,
+      "humidity": 54,
+      "ts": "2024-11-13T14:22:52.000Z"
+    },
+    {
+      "temperature": 33.4,
+      "humidity": 47,
+      "ts": "2024-11-13T14:22:52.500Z"
+    },
+    {
+      "temperature": 34.3,
+      "humidity": 51,
+      "ts": "2024-11-13T14:22:53.000Z"
+    },
+    {
+      "temperature": 31.4,
+      "humidity": 41,
+      "ts": "2024-11-13T14:22:53.500Z"
+    },
+    {
+      "temperature": 32.8,
+      "humidity": 52,
+      "ts": "2024-11-13T14:22:54.000Z"
+    },
+    {
+      "temperature": 36.8,
+      "humidity": 44,
+      "ts": "2024-11-13T14:22:54.500Z"
+    },
+    {
+      "temperature": 28.1,
+      "humidity": 53,
+      "ts": "2024-11-13T14:22:55.000Z"
+    },
+    {
+      "temperature": 30.7,
+      "humidity": 58,
+      "ts": "2024-11-13T14:22:55.500Z"
+    },
+    {
+      "temperature": 37.5,
+      "humidity": 46,
+      "ts": "2024-11-13T14:22:56.000Z"
+    },
+    {
+      "temperature": 33.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:22:56.500Z"
+    },
+    {
+      "temperature": 34.4,
+      "humidity": 49,
+      "ts": "2024-11-13T14:22:57.000Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 53,
+      "ts": "2024-11-13T14:22:57.500Z"
+    },
+    {
+      "temperature": 36,
+      "humidity": 53,
+      "ts": "2024-11-13T14:22:58.000Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 48,
+      "ts": "2024-11-13T14:22:58.500Z"
+    },
+    {
+      "temperature": 32.7,
+      "humidity": 42,
+      "ts": "2024-11-13T14:22:59.000Z"
+    },
+    {
+      "temperature": 30.3,
+      "humidity": 58,
+      "ts": "2024-11-13T14:22:59.500Z"
+    },
+    {
+      "temperature": 28.8,
+      "humidity": 45,
+      "ts": "2024-11-13T14:23:00.000Z"
+    },
+    {
+      "temperature": 29.2,
+      "humidity": 43,
+      "ts": "2024-11-13T14:23:00.500Z"
+    },
+    {
+      "temperature": 31.4,
+      "humidity": 55,
+      "ts": "2024-11-13T14:23:01.000Z"
+    },
+    {
+      "temperature": 31.1,
+      "humidity": 52,
+      "ts": "2024-11-13T14:23:01.500Z"
+    },
+    {
+      "temperature": 34.8,
+      "humidity": 50,
+      "ts": "2024-11-13T14:23:02.000Z"
+    },
+    {
+      "temperature": 31.9,
+      "humidity": 41,
+      "ts": "2024-11-13T14:23:02.500Z"
+    },
+    {
+      "temperature": 30.2,
+      "humidity": 56,
+      "ts": "2024-11-13T14:23:03.000Z"
+    },
+    {
+      "temperature": 35.8,
+      "humidity": 41,
+      "ts": "2024-11-13T14:23:03.500Z"
+    },
+    {
+      "temperature": 30.8,
+      "humidity": 47,
+      "ts": "2024-11-13T14:23:04.000Z"
+    },
+    {
+      "temperature": 35.5,
+      "humidity": 59,
+      "ts": "2024-11-13T14:23:04.500Z"
+    },
+    {
+      "temperature": 29,
+      "humidity": 54,
+      "ts": "2024-11-13T14:23:05.000Z"
+    },
+    {
+      "temperature": 35.4,
+      "humidity": 56,
+      "ts": "2024-11-13T14:23:05.500Z"
+    },
+    {
+      "temperature": 28.4,
+      "humidity": 46,
+      "ts": "2024-11-13T14:23:06.000Z"
+    },
+    {
+      "temperature": 28.1,
+      "humidity": 42,
+      "ts": "2024-11-13T14:23:06.500Z"
+    },
+    {
+      "temperature": 36.2,
+      "humidity": 59,
+      "ts": "2024-11-13T14:23:07.000Z"
+    },
+    {
+      "temperature": 35.4,
+      "humidity": 50,
+      "ts": "2024-11-13T14:23:07.500Z"
+    },
+    {
+      "temperature": 29.6,
+      "humidity": 53,
+      "ts": "2024-11-13T14:23:08.000Z"
+    },
+    {
+      "temperature": 32.9,
+      "humidity": 41,
+      "ts": "2024-11-13T14:23:08.500Z"
+    },
+    {
+      "temperature": 28,
+      "humidity": 40,
+      "ts": "2024-11-13T14:23:09.000Z"
+    },
+    {
+      "temperature": 34.2,
+      "humidity": 42,
+      "ts": "2024-11-13T14:23:09.500Z"
+    },
+    {
+      "temperature": 29.6,
+      "humidity": 44,
+      "ts": "2024-11-13T14:23:10.000Z"
+    },
+    {
+      "temperature": 31.4,
+      "humidity": 49,
+      "ts": "2024-11-13T14:23:10.500Z"
+    },
+    {
+      "temperature": 28.7,
+      "humidity": 56,
+      "ts": "2024-11-13T14:23:11.000Z"
+    },
+    {
+      "temperature": 28,
+      "humidity": 56,
+      "ts": "2024-11-13T14:23:11.500Z"
+    },
+    {
+      "temperature": 37,
+      "humidity": 40,
+      "ts": "2024-11-13T14:23:12.000Z"
+    },
+    {
+      "temperature": 29.1,
+      "humidity": 43,
+      "ts": "2024-11-13T14:23:12.500Z"
+    },
+    {
+      "temperature": 31.6,
+      "humidity": 55,
+      "ts": "2024-11-13T14:23:13.000Z"
+    },
+    {
+      "temperature": 33.8,
+      "humidity": 48,
+      "ts": "2024-11-13T14:23:13.500Z"
+    },
+    {
+      "temperature": 29.5,
+      "humidity": 58,
+      "ts": "2024-11-13T14:23:14.000Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 49,
+      "ts": "2024-11-13T14:23:14.500Z"
+    },
+    {
+      "temperature": 29.8,
+      "humidity": 56,
+      "ts": "2024-11-13T14:23:15.000Z"
+    },
+    {
+      "temperature": 30.8,
+      "humidity": 42,
+      "ts": "2024-11-13T14:23:15.500Z"
+    },
+    {
+      "temperature": 28.4,
+      "humidity": 48,
+      "ts": "2024-11-13T14:23:16.000Z"
+    },
+    {
+      "temperature": 29.5,
+      "humidity": 54,
+      "ts": "2024-11-13T14:23:16.500Z"
+    },
+    {
+      "temperature": 32.2,
+      "humidity": 48,
+      "ts": "2024-11-13T14:23:17.000Z"
+    },
+    {
+      "temperature": 33.6,
+      "humidity": 57,
+      "ts": "2024-11-13T14:23:17.500Z"
+    },
+    {
+      "temperature": 31.4,
+      "humidity": 40,
+      "ts": "2024-11-13T14:23:18.000Z"
+    },
+    {
+      "temperature": 37.7,
+      "humidity": 43,
+      "ts": "2024-11-13T14:23:18.500Z"
+    },
+    {
+      "temperature": 29.9,
+      "humidity": 43,
+      "ts": "2024-11-13T14:23:19.000Z"
+    },
+    {
+      "temperature": 32.5,
+      "humidity": 54,
+      "ts": "2024-11-13T14:23:19.500Z"
+    }
+  ]
+}

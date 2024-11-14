@@ -43,12 +43,16 @@ data:
             - TokenRelay
           routes:
             - id: devicemanagement
-              uri: http://devicemanagement:${DEVICEMANAGEMENT_PORT}
+              uri: http://ingress-nginx-internal.ingress-nginx.svc.cluster.local
               predicates:
-                - Path=/devicemanagement/**
-              filters:
-                - name: RequestRateLimiter
-                  args:
-                    redis-rate-limiter.replenishRate: 2
-                    redis-rate-limiter.burstCapacity: 2
-                    key-resolver: '#{@ipKeyResolver}'
+                - Path=/api/devicemanagement/**
+              #filters:
+              #  - name: RequestRateLimiter
+              #    args:
+              #      redis-rate-limiter.replenishRate: 5
+              #      redis-rate-limiter.burstCapacity: 10
+              #      key-resolver: '#{@ipKeyResolver}'
+            - id: timeseries
+              uri: http://ingress-nginx-internal.ingress-nginx.svc.cluster.local
+              predicates:
+                - Path=/api/timeseries/**

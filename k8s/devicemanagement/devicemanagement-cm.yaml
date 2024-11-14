@@ -2,7 +2,12 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: devicemanagement-config
+  namespace: backend
 data:
-  OIDC_HOST: "keycloak:8080"
+  OIDC_HOST: "keycloak.default.svc.cluster.local:8080"
   OIDC_REALM: "optimove"
   DEVICEMANAGEMENT_PORT: "8080"
+  POSTGRES_DB: "devicemanagement"
+  POSTGRES_USER: "devicemgtuser"
+  POSTGRES_URL: "postgres.default.svc.cluster.local"
+  TIMESERIES_SERVICE_URL: "http://ingress-nginx-internal.ingress-nginx.svc.cluster.local"

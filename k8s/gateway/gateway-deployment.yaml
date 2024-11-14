@@ -12,6 +12,11 @@ spec:
       labels:
         app: gateway
     spec:
+      dnsPolicy: ClusterFirst
+      dnsConfig:
+        options:
+          - name: ndots
+            value: "2"
       initContainers:
       - name: wait-for-keycloak
         image: busybox

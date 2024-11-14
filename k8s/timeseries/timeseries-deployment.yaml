@@ -1,22 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: devicemanagement
+  name: timeseries
   namespace: backend
 spec:
-  replicas: 1
+  replicas: 3
   strategy:
-    type: RollingUpdate
-    rollingUpdate:
-      maxUnavailable: 1
-      maxSurge: 1
+    type: Recreate
   selector:
     matchLabels:
-      app: devicemanagement
+      app: timeseries
   template:
     metadata:
       labels:
-        app: devicemanagement
+        app: timeseries
     spec:
       dnsPolicy: ClusterFirst
       dnsConfig:
@@ -24,49 +21,49 @@ spec:
           - name: ndots
             value: "2"
       containers:
-      - name: devicemanagement
-        image: optimove-devicemanagement:0.0.8
+      - name: timeseries
+        image: optimove-timeseries:0.0.9
         env:
         - name: OIDC_HOST
           valueFrom:
             configMapKeyRef:
-              name: devicemanagement-config
+              name: timeseries-config
               key: OIDC_HOST
         - name: OIDC_REALM
           valueFrom:
             configMapKeyRef:
-              name: devicemanagement-config
+              name: timeseries-config
               key: OIDC_REALM
-        - name: DEVICEMANAGEMENT_PORT
+        - name: TIMESERIES_PORT
           valueFrom:
             configMapKeyRef:
-              name: devicemanagement-config
-              key: DEVICEMANAGEMENT_PORT
-        - name: POSTGRES_DB
+              name: timeseries-config
+              key: TIMESERIES_PORT
+        - name: INFLUXDB_USER
           valueFrom:
             configMapKeyRef:
-              name: devicemanagement-config
-              key: POSTGRES_DB
-        - name: POSTGRES_USER
+              name: timeseries-config
+              key: INFLUXDB_USER
+        - name: INFLUXDB_HOSTNAME
           valueFrom:
             configMapKeyRef:
-              name: devicemanagement-config
-              key: POSTGRES_USER
-        - name: POSTGRES_URL
+              name: timeseries-config
+              key: INFLUXDB_HOSTNAME
+        - name: INFLUXDB_ORG
           valueFrom:
             configMapKeyRef:
-              name: devicemanagement-config
-              key: POSTGRES_URL
-        - name: TIMESERIES_SERVICE_URL
+              name: timeseries-config
+              key: INFLUXDB_ORG
+        - name: INFLUXDB_BUCKET
           valueFrom:
             configMapKeyRef:
-              name: devicemanagement-config
-              key: TIMESERIES_SERVICE_URL
-        - name: POSTGRES_PASSWORD
+              name: timeseries-config
+              key: INFLUXDB_BUCKET
+        - name: INFLUXDB_PASSWORD
           valueFrom:
             secretKeyRef:
-              name: devicemanagement-secret
-              key: POSTGRES_PASSWORD
+              name: timeseries-secret
+              key: INFLUXDB_PASSWORD
         - name: HOSTNAME
           valueFrom:
             fieldRef:
@@ -83,7 +80,7 @@ spec:
       volumes:
       - name: config-volume
         configMap:
-          name: devicemanagement-application-config
+          name: timeseries-application-config
       initContainers:
       - name: wait-for-gateway
         image: busybox
