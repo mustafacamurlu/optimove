@@ -67,7 +67,7 @@ minikube   Ready    control-plane   22d   v1.31.0
 
 
 $ sudo apt update
-$ sudo apt install nginx
+$ sudo apt install nginx-extras
 $ minikube ip
 
 $ sudo vim /etc/nginx/nginx.conf
