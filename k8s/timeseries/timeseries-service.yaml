@@ -10,3 +10,4 @@ spec:
   selector:
     app: timeseries
   type: ClusterIP
+  sessionAffinity: None

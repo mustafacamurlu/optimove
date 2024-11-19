@@ -22,7 +22,7 @@ spec:
             value: "2"
       containers:
       - name: timeseries
-        image: optimove-timeseries:0.0.9
+        image: optimove-timeseries:0.0.10
         env:
         - name: OIDC_HOST
           valueFrom:
