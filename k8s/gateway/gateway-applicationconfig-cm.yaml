@@ -46,13 +46,22 @@ data:
               uri: http://ingress-nginx-internal.ingress-nginx.svc.cluster.local
               predicates:
                 - Path=/api/devicemanagement/**
-              #filters:
+              filters:
               #  - name: RequestRateLimiter
               #    args:
-              #      redis-rate-limiter.replenishRate: 5
-              #      redis-rate-limiter.burstCapacity: 10
-              #      key-resolver: '#{@ipKeyResolver}'
+              #      rate-limiter: "#{@leakyBucketRateLimiter}"
+              #      key-resolver: "#{@ipKeyResolver}"
+                - name: RequestRateLimiter
+                  args:
+                    redis-rate-limiter.replenishRate: 5
+                    redis-rate-limiter.burstCapacity: 10
+                    key-resolver: '#{@ipKeyResolver}'
             - id: timeseries
               uri: http://ingress-nginx-internal.ingress-nginx.svc.cluster.local
               predicates:
                 - Path=/api/timeseries/**
+
+      ratelimiter:
+        leakybucket:
+          request-limit: 1  # Max requests allowed in the leaky bucket
+          leak-rate-in-milliseconds: 1000  # Leak rate in milliseconds (1 request per second)

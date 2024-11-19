@@ -22,3 +22,7 @@ data:
       password: ${INFLUXDB_PASSWORD}
     server:
       port: ${TIMESERIES_PORT}
+      tomcat:
+        max-threads: 1
+        min-spare-threads: 1
+

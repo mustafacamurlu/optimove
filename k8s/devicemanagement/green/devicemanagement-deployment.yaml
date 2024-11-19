@@ -1,11 +1,11 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: devicemanagement
+  name: devicemanagement-green
   namespace: backend
   labels:
     app: devicemanagement
-    version: blue
+    version: green
 spec:
   replicas: 1
   strategy:
@@ -16,12 +16,12 @@ spec:
   selector:
     matchLabels:
       app: devicemanagement
-      version: blue
+      version: green
   template:
     metadata:
       labels:
         app: devicemanagement
-        version: blue
+        version: green
     spec:
       dnsPolicy: ClusterFirst
       dnsConfig:
@@ -30,7 +30,7 @@ spec:
             value: "2"
       containers:
       - name: devicemanagement
-        image: optimove-devicemanagement:0.0.8
+        image: optimove-devicemanagement:0.0.9
         env:
         - name: OIDC_HOST
           valueFrom:
